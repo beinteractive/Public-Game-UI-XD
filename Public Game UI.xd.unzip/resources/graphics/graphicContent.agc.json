@@ -29,7 +29,7 @@
                 "width": 812,
                 "height": 948.6666259765625,
                 "componentType": "componentNoBounds",
-                "modTime": 1611105591774,
+                "modTime": 1611107721073,
                 "canonicalPaddingBottom": -12.3333740234375,
                 "listViewPosition": 0,
                 "assetGroupData": {
@@ -125,7 +125,7 @@
                     "children": [
                       {
                         "type": "group",
-                        "name": "Home",
+                        "name": "Home Button",
                         "id": "9eedeba9-da47-48c7-ad30-f989ef7e6771",
                         "transform": {
                           "a": 1,
@@ -763,7 +763,7 @@
                       },
                       {
                         "type": "group",
-                        "name": "Equip",
+                        "name": "Equip Button",
                         "id": "3f5dbd8f-4a73-4442-b0ff-ab80cdae4c29",
                         "transform": {
                           "a": 1,
@@ -1408,7 +1408,7 @@
                       },
                       {
                         "type": "group",
-                        "name": "Shop",
+                        "name": "Shop Button",
                         "id": "bfb2ba55-650f-4976-8c39-a10f169635af",
                         "transform": {
                           "a": 1,
@@ -2053,7 +2053,7 @@
                       },
                       {
                         "type": "group",
-                        "name": "Friend",
+                        "name": "Friend Button",
                         "id": "76257f4b-12ab-44f0-954b-85d63f20d5b5",
                         "transform": {
                           "a": 1,
@@ -3667,7 +3667,6 @@
                         "meta": {
                           "ux": {
                             "hasCustomName": true,
-                            "hasNameFromExternalSource": true,
                             "aspectLock": {
                               "width": 125,
                               "height": 100

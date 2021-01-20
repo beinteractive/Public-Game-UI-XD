@@ -150,7 +150,7 @@
                     "children": [
                       {
                         "type": "group",
-                        "name": "Home",
+                        "name": "Home Button",
                         "id": "66b7d311-2329-45a9-b5c3-c4c7cb595836",
                         "transform": {
                           "a": 1,
@@ -214,7 +214,7 @@
                       },
                       {
                         "type": "group",
-                        "name": "Equip",
+                        "name": "Equip Button",
                         "id": "70800d08-dbfc-4b4e-96fe-1cc2f0fb771f",
                         "transform": {
                           "a": 1,
@@ -271,7 +271,7 @@
                       },
                       {
                         "type": "group",
-                        "name": "Shop",
+                        "name": "Shop Button",
                         "id": "09800763-a435-489d-adbf-74f35e147fee",
                         "transform": {
                           "a": 1,
@@ -328,7 +328,7 @@
                       },
                       {
                         "type": "group",
-                        "name": "Friend",
+                        "name": "Friend Button",
                         "id": "c7f4a52f-68c2-4cb3-87f6-eb5ebde6b7ed",
                         "transform": {
                           "a": 1,

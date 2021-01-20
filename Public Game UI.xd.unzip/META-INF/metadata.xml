@@ -8,12 +8,12 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
    xmp:CreatorTool="XD"
    xmp:CreateDate="2021-01-18T15:32:33.344+09:00"
-   xmp:ModifyDate="2021-01-20T10:21:04.752+09:00"
-   xmp:MetadataDate="2021-01-20T10:21:04.752+09:00"
+   xmp:ModifyDate="2021-01-20T10:55:22.468+09:00"
+   xmp:MetadataDate="2021-01-20T10:55:22.468+09:00"
    dc:format="application/vnd.adobe.sparkler.project+dcx"
    xmpMM:DocumentID="46d37788-95fd-4354-91f9-891bec722dab"
    xmpMM:OriginalDocumentID="46d37788-95fd-4354-91f9-891bec722dab"
-   xmpMM:InstanceID="1decf99d-7129-48f7-91ce-997d5a58a5f9">
+   xmpMM:InstanceID="e717b55e-2100-44c2-9232-2e75a498ffa8">
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Public Game UI</rdf:li>
@@ -28,8 +28,8 @@
       stEvt:softwareAgent="XD"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="1decf99d-7129-48f7-91ce-997d5a58a5f9"
-      stEvt:when="2021-01-20T10:21:04.752+09:00"
+      stEvt:instanceID="e717b55e-2100-44c2-9232-2e75a498ffa8"
+      stEvt:when="2021-01-20T10:55:22.468+09:00"
       stEvt:softwareAgent="XD"/>
     </rdf:Seq>
    </xmpMM:History>
