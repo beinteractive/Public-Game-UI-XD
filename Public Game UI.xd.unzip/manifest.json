@@ -1,0 +1,364 @@
+{
+  "state": "unmodified",
+  "manifest-format-version": 6,
+  "name": "Public Game UI",
+  "uxdesign#passwordPublished": "false",
+  "uxdesign#hotspotHints": "true",
+  "uxdesign#assetID": "bd9c33e2-dc1d-472d-afb7-0c2d3aa2822c",
+  "uxdesign#fullscreen": "true",
+  "uxdesign#embedWidth": "375",
+  "uxdesign#href": "https://cc-api-cp.adobe.io/api/v2/xd_prototypes/assets/bd9c33e2-dc1d-472d-afb7-0c2d3aa2822c/original",
+  "uxdesign#navigationControls": "true",
+  "uxdesign#parentDocId": "f764c51c-c132-4da0-88be-c41f9c82704d",
+  "uxdesign#sharedURL": "https://xd.adobe.com/view/bd9c33e2-dc1d-472d-afb7-0c2d3aa2822c-e8cf/?fullscreen",
+  "uxdesign#embedHeight": "908",
+  "uxdesign#prototypeName": "Public Game UI",
+  "uxdesign#homeArtboardType": "Mobile",
+  "uxdesign#prototypeSharePublic": "true",
+  "components": [
+    {
+      "rel": "rendition",
+      "width": 237,
+      "height": 512,
+      "type": "image/png",
+      "state": "unmodified",
+      "id": "d13ad3d6-c09c-48d4-8fff-10ab2d56b350",
+      "name": "thumbnail",
+      "path": "renditions/image-237-512.png"
+    },
+    {
+      "rel": "thumbnail",
+      "width": 237,
+      "height": 512,
+      "type": "image/png",
+      "state": "unmodified",
+      "id": "569dcdfe-f248-4df1-b258-5d6cfa339635",
+      "name": "thumbnail",
+      "path": "thumbnail.png"
+    },
+    {
+      "rel": "rendition",
+      "width": 375,
+      "height": 812,
+      "type": "image/png",
+      "state": "unmodified",
+      "id": "322421c0-bf0e-46b2-9ab3-10b7dac2601d",
+      "name": "preview",
+      "path": "renditions/image-375-812.png"
+    },
+    {
+      "rel": "preview",
+      "width": 375,
+      "height": 812,
+      "type": "image/png",
+      "state": "unmodified",
+      "id": "bfdbad61-d2ce-49c7-82be-fd168a2adb8a",
+      "name": "preview",
+      "path": "preview.png"
+    },
+    {
+      "rel": "metadata",
+      "type": "application/rdf+xml",
+      "state": "unmodified",
+      "id": "43f8d4da-c00e-4215-8643-d7e81530a224",
+      "name": "xmp-metadata",
+      "path": "META-INF/metadata.xml"
+    }
+  ],
+  "uxdesign#id": "b0d9acd6-89ff-44d0-a5ec-cd687f2bae8a",
+  "uxdesign#allowComments": "false",
+  "uxdesign#specSharePublic": "true",
+  "uxdesign#selectedLink": "0",
+  "uxdesign#serializationId": "bfc4980d-2085-404b-aa44-3cdc4700fcae",
+  "uxdesign#resourceID": "5e2dadf9-6e22-4b22-904b-78dadbcb7343",
+  "uxdesign#requirePassword": "false",
+  "type": "application/vnd.adobe.sparkler.project+dcx",
+  "uxdesign#version": "2.18",
+  "uxdesign#linkIndex": "0",
+  "uxdesign#idHash": "TC3Bcef1fuL6s2XTM+jmSVaAr6qq92/Di5VtLvsdVEQ=",
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "components": [
+                {
+                  "rel": "primary",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "state": "unmodified",
+                  "id": "ad2baaa1-d1af-4d77-b582-7d0b4da81c46",
+                  "name": "",
+                  "path": "graphicContent.agc"
+                }
+              ],
+              "id": "40c18062-4a67-41fd-84e5-9ffbea6a109b",
+              "name": "graphics",
+              "path": "graphics"
+            }
+          ],
+          "id": "77937893-af42-4770-b313-161683069110",
+          "name": "pasteboard",
+          "path": "pasteboard"
+        },
+        {
+          "uxdesign#bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 375,
+            "height": 812
+          },
+          "uxdesign#viewport": {
+            "height": 812
+          },
+          "children": [
+            {
+              "components": [
+                {
+                  "rel": "primary",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "state": "unmodified",
+                  "id": "f85a0c8f-430a-4882-bb80-ee0f1657c508",
+                  "name": "",
+                  "path": "graphicContent.agc"
+                }
+              ],
+              "id": "2b5b97ac-6b89-47e1-9d56-9e6cafa04745",
+              "name": "graphics",
+              "path": "graphics"
+            }
+          ],
+          "id": "bedaa996-c22e-4ecc-81f4-73192dd00a47",
+          "name": "Main",
+          "path": "artboard-ccaa0b46-6401-4a9f-87ba-f856ca96dfaa"
+        },
+        {
+          "uxdesign#bounds": {
+            "x": 445,
+            "y": 0,
+            "width": 768,
+            "height": 1024
+          },
+          "uxdesign#viewport": {
+            "height": 1024
+          },
+          "children": [
+            {
+              "components": [
+                {
+                  "rel": "primary",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "id": "84e2dded-8ca8-4ef0-83c4-6df4f72aab6f",
+                  "state": "unmodified",
+                  "name": "",
+                  "path": "graphicContent.agc"
+                }
+              ],
+              "id": "0a23fd4c-01f0-4a73-8220-9f973ec2093f",
+              "name": "graphics",
+              "path": "graphics"
+            }
+          ],
+          "id": "1957104f-ff03-4b78-944f-b93b1ac906e2",
+          "name": "Main (iPad Preview)",
+          "path": "artboard-171fb6f5-6d77-450a-a99e-4df11853e11c"
+        }
+      ],
+      "id": "7fe9a7c2-ab09-4bd6-a80d-0571fee46a62",
+      "name": "artwork",
+      "path": "artwork"
+    },
+    {
+      "components": [
+        {
+          "rel": "primary",
+          "type": "application/vnd.adobe.uxdesign.interactions+json",
+          "state": "unmodified",
+          "id": "f93c5b1b-98b8-43c1-b9a4-df2dd425cc26",
+          "name": "interactions",
+          "path": "interactions.json"
+        }
+      ],
+      "id": "ce1bf23c-4eeb-4784-af8b-4e512c217b38",
+      "name": "interactions",
+      "path": "interactions"
+    },
+    {
+      "components": [
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "state": "unmodified",
+          "id": "69296603-5489-46ae-9bc5-d5c181863fee",
+          "name": "",
+          "path": "09298be192631a3809a3ad162a318dd5"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "b4664c51-da3d-48e7-926f-4f964fc5725f",
+          "state": "unmodified",
+          "name": "",
+          "path": "8b2f588ce155c812029265701c8371c2"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "7192fd8c-114c-46e4-b53d-587e0255f572",
+          "state": "unmodified",
+          "name": "",
+          "path": "acee3e887cc804c5644bfcfe84015356"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "691f07fe-fb00-4070-a389-cc995fbb7a84",
+          "state": "unmodified",
+          "name": "",
+          "path": "f42005258abb897879a2b78d0e4c6fdf"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "71f869c3-1bb3-42ad-847d-b0edc552d6d1",
+          "state": "unmodified",
+          "name": "",
+          "path": "1e250df47ee9aac9f511c079874b0de6"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "57383f6c-fa24-431d-acbb-4b24985c0560",
+          "state": "unmodified",
+          "name": "",
+          "path": "a46d7f30727e8c287b69506fe23803fc"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "f450419a-f107-4630-b512-a1c93a161e3f",
+          "state": "unmodified",
+          "name": "",
+          "path": "10aaf4911ab43be0a2c5cad5adc02b8d"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "4f49a45e-905a-4db9-b046-6d349493b4e8",
+          "state": "unmodified",
+          "name": "",
+          "path": "17c51f489109cbbf836e8a7969c32c55"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "5a235223-01e0-4520-acfb-aee21f1fccde",
+          "state": "unmodified",
+          "name": "",
+          "path": "d23bdd8799568a9feec13d40e34c286b"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "3b8103bd-ad6b-42a6-ba54-12b1dfdb777f",
+          "state": "unmodified",
+          "name": "",
+          "path": "009b66d7da0bc67d79860515d8655d92"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "fd230099-6bfa-4fa7-85e1-1356b5bcf377",
+          "state": "unmodified",
+          "name": "",
+          "path": "740243107c41479a76d0caf69bd9073e"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "b7930ae2-5c92-4117-969b-917ba8145fde",
+          "state": "unmodified",
+          "name": "",
+          "path": "971ebbed340595a9f790315e0b77d07b"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "41ea81c5-2704-461e-b666-3c55b89ff1d0",
+          "state": "unmodified",
+          "name": "",
+          "path": "b982438ab584aaf849bdc738e8451973"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "72922d8a-d559-46ee-be73-a88c214dba8e",
+          "state": "unmodified",
+          "name": "",
+          "path": "cac518237b3ba9ece5d8b21ec206f0ab"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "2a1323f4-c7e6-46f7-91ca-eef813fb0ff2",
+          "state": "unmodified",
+          "name": "",
+          "path": "f31ebcf0b3339754c7455cc90c1a8097"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "df8e8cf3-edfa-487d-9f6a-11a4eaf4fb06",
+          "state": "unmodified",
+          "name": "",
+          "path": "8296cc1fd7a0bd0a7bb170f4887414ff"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "b4629ac5-99cc-498d-a54b-dfee28924d10",
+          "state": "unmodified",
+          "name": "",
+          "path": "42b33eeff5d4dfa6d9264073bc127d28"
+        }
+      ],
+      "children": [
+        {
+          "components": [
+            {
+              "rel": "primary",
+              "type": "application/vnd.adobe.agc.graphicsTree+json",
+              "state": "unmodified",
+              "id": "7dcbc9c5-b038-4b85-b794-b67f56c77ced",
+              "name": "",
+              "path": "graphicContent.agc"
+            }
+          ],
+          "id": "4589a1e8-c3e1-4ad5-b856-f2a38b668fb5",
+          "name": "graphics",
+          "path": "graphics"
+        }
+      ],
+      "id": "0a230281-2c1e-4afb-b9bb-b6bbee14ce96",
+      "name": "resources",
+      "path": "resources"
+    },
+    {
+      "components": [
+        {
+          "rel": "primary",
+          "type": "application/vnd.adobe.uxdesign.sharing+json",
+          "state": "unmodified",
+          "id": "eff78140-e7b2-49c1-b4ac-ee7315ae2d80",
+          "name": "sharing",
+          "path": "sharing.json"
+        }
+      ],
+      "id": "4816e4ac-19bf-428e-a9ef-e7643426b060",
+      "name": "sharing",
+      "path": "sharing"
+    }
+  ],
+  "uxdesign#compositeID": "6af26b62-f4d9-480a-808b-8b961db57067",
+  "id": "46d37788-95fd-4354-91f9-891bec722dab"
+}

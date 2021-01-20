@@ -1,0 +1,72 @@
+{
+  "version": "1.5.0",
+  "children": [
+    {
+      "type": "group",
+      "name": "Footer Button",
+      "id": "96b02830-0ef3-4f82-995d-d7a34d9942ad",
+      "transform": {
+        "a": 1,
+        "b": 0,
+        "c": 0,
+        "d": 1,
+        "tx": 1293,
+        "ty": 2
+      },
+      "meta": {
+        "ux": {
+          "hasCustomName": true,
+          "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
+          "width": 80.66667175292969,
+          "height": 182.3333282470703,
+          "componentType": "componentNoBounds",
+          "isMaster": true,
+          "syncMap": {
+            "5802331e-4541-4ee6-8a04-1e335156d3d7": "78d4c74a-3e98-454c-94d9-bd9b76022c49",
+            "98a9c51a-7472-4511-b178-4e53e4234794": "e9ffd796-7f2f-4625-bb67-a0a1098a4f36",
+            "d5e28998-f162-4513-bbeb-e74324ca8533": "e8c393e7-b360-4656-913f-adfa2fe7e343",
+            "dcb498c9-29dd-4aac-b6d2-1e2126aed568": "b33659ce-4633-4885-8296-770fae20a07b"
+          },
+          "stateId": "ec9417b4-6650-4cf1-8f42-c792544349b3",
+          "symbolPaddingTop": 8,
+          "symbolPaddingRight": 5,
+          "symbolPaddingBottom": -1.52587890625e-05,
+          "isCustomNameInherited": true,
+          "assetGroupData": {
+            "groupComponents": "h"
+          }
+        }
+      },
+      "group": {
+        "children": [
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "98a9c51a-7472-4511-b178-4e53e4234794",
+            "guid": "e9ffd796-7f2f-4625-bb67-a0a1098a4f36"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "5802331e-4541-4ee6-8a04-1e335156d3d7",
+            "guid": "78d4c74a-3e98-454c-94d9-bd9b76022c49"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "d5e28998-f162-4513-bbeb-e74324ca8533",
+            "guid": "e8c393e7-b360-4656-913f-adfa2fe7e343"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "dcb498c9-29dd-4aac-b6d2-1e2126aed568",
+            "guid": "b33659ce-4633-4885-8296-770fae20a07b"
+          }
+        ]
+      }
+    }
+  ],
+  "resources": {
+    "href": "/resources/graphics/graphicContent.agc"
+  },
+  "artboards": {
+    "href": "/resources/graphics/graphicContent.agc"
+  }
+}
