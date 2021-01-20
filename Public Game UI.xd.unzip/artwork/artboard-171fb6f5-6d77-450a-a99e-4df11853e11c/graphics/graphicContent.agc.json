@@ -208,8 +208,8 @@
                     "b": 0,
                     "c": 0,
                     "d": 1,
-                    "tx": 228.57142639160156,
-                    "ty": 977.6962280273438
+                    "tx": 227.92642211914062,
+                    "ty": 548.0296020507812
                   },
                   "group": {
                     "children": [
@@ -223,7 +223,7 @@
                           "c": 0,
                           "d": 1,
                           "tx": 0,
-                          "ty": 2
+                          "ty": 431.6666259765625
                         },
                         "meta": {
                           "ux": {
@@ -234,19 +234,16 @@
                             "constraintTop": true,
                             "constraintBottom": true,
                             "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                            "width": 80.66667175292969,
+                            "width": 80.66666412353516,
                             "height": 182.3333282470703,
                             "componentType": "componentNoBounds",
                             "syncMap": {
-                              "1a70a784-7e3c-458a-911b-c368e5e77cee": "e4f6f18f-1ff6-4928-8150-010e36cbaf42",
-                              "20f7524a-80e9-4f21-9917-894b3c0687d9": "c6b575bd-5a89-4b55-a5f5-7c31eb25f982",
-                              "bf62edc6-bcf3-4936-a64f-9b0b9168a1ec": "2eb98ddc-4d45-4f83-aa1d-a81ce6780ddc",
-                              "f617cf42-620d-417b-b7f4-ce0d21f56426": "185a2d58-4cdf-4c28-8eab-66f5f1da7a60"
+                              "0a4e2f40-b9d8-4cb2-9729-9b174ae9bae1": "fec3b35e-d4e6-4bfa-9b17-13eebfc48762",
+                              "a8c1b62f-7bec-404a-98ca-7fe8b38a9437": "6b9ca2cf-9b36-46e2-8fb9-33b890c7fde8",
+                              "c599aad6-4c1a-4249-8ed7-602f756a0f6a": "3e615a07-3cb0-4c28-b46c-68a7900004ef",
+                              "dc14dec2-5f33-4362-912b-e8b81a52b7d8": "3a9febdf-3d9e-48d2-9dbc-2640334c8065"
                             },
-                            "stateId": "ec9417b4-6650-4cf1-8f42-c792544349b3",
-                            "symbolPaddingTop": 8,
-                            "symbolPaddingRight": 5,
-                            "symbolPaddingBottom": -1.52587890625e-05,
+                            "stateId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
                             "assetGroupData": {
                               "groupComponents": "h"
                             }
@@ -256,23 +253,23 @@
                           "children": [
                             {
                               "type": "syncRef",
-                              "syncSourceGuid": "1a70a784-7e3c-458a-911b-c368e5e77cee",
-                              "guid": "e4f6f18f-1ff6-4928-8150-010e36cbaf42"
+                              "syncSourceGuid": "dc14dec2-5f33-4362-912b-e8b81a52b7d8",
+                              "guid": "3a9febdf-3d9e-48d2-9dbc-2640334c8065"
                             },
                             {
                               "type": "syncRef",
-                              "syncSourceGuid": "bf62edc6-bcf3-4936-a64f-9b0b9168a1ec",
-                              "guid": "2eb98ddc-4d45-4f83-aa1d-a81ce6780ddc"
+                              "syncSourceGuid": "0a4e2f40-b9d8-4cb2-9729-9b174ae9bae1",
+                              "guid": "fec3b35e-d4e6-4bfa-9b17-13eebfc48762"
                             },
                             {
                               "type": "syncRef",
-                              "syncSourceGuid": "20f7524a-80e9-4f21-9917-894b3c0687d9",
-                              "guid": "c6b575bd-5a89-4b55-a5f5-7c31eb25f982"
+                              "syncSourceGuid": "a8c1b62f-7bec-404a-98ca-7fe8b38a9437",
+                              "guid": "6b9ca2cf-9b36-46e2-8fb9-33b890c7fde8"
                             },
                             {
                               "type": "syncRef",
-                              "syncSourceGuid": "f617cf42-620d-417b-b7f4-ce0d21f56426",
-                              "guid": "185a2d58-4cdf-4c28-8eab-66f5f1da7a60"
+                              "syncSourceGuid": "c599aad6-4c1a-4249-8ed7-602f756a0f6a",
+                              "guid": "3e615a07-3cb0-4c28-b46c-68a7900004ef"
                             }
                           ]
                         }
@@ -287,7 +284,7 @@
                           "c": 0,
                           "d": 1,
                           "tx": 77,
-                          "ty": 10
+                          "ty": 431.6666259765625
                         },
                         "meta": {
                           "ux": {
@@ -297,8 +294,8 @@
                             "constraintTop": true,
                             "constraintBottom": true,
                             "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                            "width": 75.66666412353516,
-                            "height": 174.3333282470703,
+                            "width": 80.66666412353516,
+                            "height": 182.3333282470703,
                             "componentType": "componentNoBounds",
                             "syncMap": {
                               "185dcd37-b338-46b1-9d80-9d32013a022e": "c8d59eb7-f608-41c6-b6ff-efe3c5aa8489",
@@ -344,7 +341,7 @@
                           "c": 0,
                           "d": 1,
                           "tx": 155,
-                          "ty": 10
+                          "ty": 431.6666259765625
                         },
                         "meta": {
                           "ux": {
@@ -354,8 +351,8 @@
                             "constraintTop": true,
                             "constraintBottom": true,
                             "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                            "width": 75.66666412353516,
-                            "height": 174.3333282470703,
+                            "width": 80.66666412353516,
+                            "height": 182.3333282470703,
                             "componentType": "componentNoBounds",
                             "syncMap": {
                               "0954081f-28c1-4fb0-8588-56c1c2e26212": "55f27c78-b414-4279-bd57-60c3ca9f8408",
@@ -401,7 +398,7 @@
                           "c": 0,
                           "d": 1,
                           "tx": 233,
-                          "ty": 10
+                          "ty": 431.6666259765625
                         },
                         "meta": {
                           "ux": {
@@ -412,14 +409,14 @@
                             "constraintTop": true,
                             "constraintBottom": true,
                             "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                            "width": 75.66666412353516,
-                            "height": 174.3333282470703,
+                            "width": 80.66666412353516,
+                            "height": 182.3333282470703,
                             "componentType": "componentNoBounds",
                             "syncMap": {
-                              "1b9be424-c789-402c-9841-5e9ccf625487": "12ddea0e-86eb-4fe1-9a11-1ff7fe89df63",
-                              "2c7759a7-d3f3-42c5-a389-f3b4814e90af": "4f6e6590-bddf-445f-ad2b-5bb9f08ffe52",
-                              "6eb09dd6-04b2-46d7-8c1c-ad12c8baf96e": "18e46177-f832-45aa-9621-dc3da9915950",
-                              "93fe5d4e-7e42-4d61-843a-a3d0038bdec5": "d19d741f-b96a-4f87-a1eb-b60bc1a65d4b"
+                              "1b9be424-c789-402c-9841-5e9ccf625487": "e1751ff0-7bf8-4777-9079-0c1712c74519",
+                              "2c7759a7-d3f3-42c5-a389-f3b4814e90af": "f04c4bd1-43ed-44d0-8f3d-4c03683a96e9",
+                              "6eb09dd6-04b2-46d7-8c1c-ad12c8baf96e": "5f2ef718-4168-4914-b8a9-9619b01033fc",
+                              "93fe5d4e-7e42-4d61-843a-a3d0038bdec5": "f65e4fb8-02b7-49ea-8647-caa86fa5be9c"
                             },
                             "stateId": "c804d06e-2647-4aff-9141-cf52c3d14bfb"
                           }
@@ -429,22 +426,22 @@
                             {
                               "type": "syncRef",
                               "syncSourceGuid": "2c7759a7-d3f3-42c5-a389-f3b4814e90af",
-                              "guid": "4f6e6590-bddf-445f-ad2b-5bb9f08ffe52"
+                              "guid": "f04c4bd1-43ed-44d0-8f3d-4c03683a96e9"
                             },
                             {
                               "type": "syncRef",
                               "syncSourceGuid": "93fe5d4e-7e42-4d61-843a-a3d0038bdec5",
-                              "guid": "d19d741f-b96a-4f87-a1eb-b60bc1a65d4b"
+                              "guid": "f65e4fb8-02b7-49ea-8647-caa86fa5be9c"
                             },
                             {
                               "type": "syncRef",
                               "syncSourceGuid": "1b9be424-c789-402c-9841-5e9ccf625487",
-                              "guid": "12ddea0e-86eb-4fe1-9a11-1ff7fe89df63"
+                              "guid": "e1751ff0-7bf8-4777-9079-0c1712c74519"
                             },
                             {
                               "type": "syncRef",
                               "syncSourceGuid": "6eb09dd6-04b2-46d7-8c1c-ad12c8baf96e",
-                              "guid": "18e46177-f832-45aa-9621-dc3da9915950"
+                              "guid": "5f2ef718-4168-4914-b8a9-9619b01033fc"
                             }
                           ]
                         }

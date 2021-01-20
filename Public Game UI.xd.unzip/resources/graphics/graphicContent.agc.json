@@ -29,7 +29,7 @@
                 "width": 812,
                 "height": 948.6666259765625,
                 "componentType": "componentNoBounds",
-                "modTime": 1611107721073,
+                "modTime": 1611119491588,
                 "canonicalPaddingBottom": -12.3333740234375,
                 "listViewPosition": 0,
                 "assetGroupData": {
@@ -144,47 +144,45 @@
                             "constraintTop": true,
                             "constraintBottom": true,
                             "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                            "width": 80.66667175292969,
+                            "width": 80.66666412353516,
                             "height": 182.3333282470703,
                             "componentType": "componentNoBounds",
                             "syncMap": {
-                              "5802331e-4541-4ee6-8a04-1e335156d3d7": "bf62edc6-bcf3-4936-a64f-9b0b9168a1ec",
-                              "98a9c51a-7472-4511-b178-4e53e4234794": "1a70a784-7e3c-458a-911b-c368e5e77cee",
-                              "d5e28998-f162-4513-bbeb-e74324ca8533": "20f7524a-80e9-4f21-9917-894b3c0687d9",
-                              "dcb498c9-29dd-4aac-b6d2-1e2126aed568": "f617cf42-620d-417b-b7f4-ce0d21f56426"
+                              "06f31d4d-1969-4ff6-9125-5c725af6bc16": "a8c1b62f-7bec-404a-98ca-7fe8b38a9437",
+                              "c503e76b-3295-46fd-9d03-410f0cb98933": "c599aad6-4c1a-4249-8ed7-602f756a0f6a",
+                              "c5aa74e6-87a5-47fc-ba64-feee7d234142": "0a4e2f40-b9d8-4cb2-9729-9b174ae9bae1",
+                              "ff289539-7eb1-4fff-a706-a79b0bc74f87": "dc14dec2-5f33-4362-912b-e8b81a52b7d8"
                             },
-                            "stateId": "ec9417b4-6650-4cf1-8f42-c792544349b3",
-                            "symbolPaddingTop": 8,
-                            "symbolPaddingRight": 5,
-                            "symbolPaddingBottom": -1.52587890625e-05,
+                            "stateId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
                             "states": [
                               {
                                 "type": "group",
                                 "name": "Footer Button",
-                                "id": "6adbf625-8fb0-4c2f-9478-524da5620c8e",
+                                "id": "f757d821-58ed-481e-b25b-3afe6857c94e",
                                 "transform": {
                                   "a": 1,
                                   "b": 0,
                                   "c": 0,
                                   "d": 1,
                                   "tx": -17,
-                                  "ty": -75
+                                  "ty": -83
                                 },
                                 "meta": {
                                   "ux": {
                                     "hasCustomName": true,
                                     "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                                    "width": 75.66666412353516,
-                                    "height": 174.3333282470703,
+                                    "width": 80.66666412353516,
+                                    "height": 182.3333282470703,
                                     "componentType": "componentNoBounds",
                                     "syncMap": {
-                                      "06f31d4d-1969-4ff6-9125-5c725af6bc16": "a8c1b62f-7bec-404a-98ca-7fe8b38a9437",
-                                      "c503e76b-3295-46fd-9d03-410f0cb98933": "c599aad6-4c1a-4249-8ed7-602f756a0f6a",
-                                      "c5aa74e6-87a5-47fc-ba64-feee7d234142": "0a4e2f40-b9d8-4cb2-9729-9b174ae9bae1",
-                                      "ff289539-7eb1-4fff-a706-a79b0bc74f87": "dc14dec2-5f33-4362-912b-e8b81a52b7d8"
+                                      "967d8b29-1ea4-4722-9d5a-c7f97e3aecf6": "31e79392-9210-4e77-8a95-2e0f36c762e7",
+                                      "96886cc2-6d00-48a2-8c64-7c12998cec7c": "df7794ae-9607-44e4-bce5-42230e97b45e",
+                                      "be013688-43ef-41a4-b067-f9cc8a2fb535": "e24d9fce-1396-4d93-b479-49a698b6c6bc",
+                                      "d1d54f93-9a83-4b1d-8469-c08af3bafdc4": "63caea14-1514-43ec-b9f1-813cf96222b4"
                                     },
-                                    "stateId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
+                                    "stateId": "1e651266-99e8-494e-a1c5-8b48c18cde4b",
                                     "isCustomNameInherited": true,
+                                    "listViewPosition": 0,
                                     "assetGroupData": {
                                       "groupComponents": "h"
                                     }
@@ -195,7 +193,15 @@
                                     {
                                       "type": "shape",
                                       "name": "Base",
-                                      "id": "dc14dec2-5f33-4362-912b-e8b81a52b7d8",
+                                      "id": "63caea14-1514-43ec-b9f1-813cf96222b4",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 0,
+                                        "ty": 8
+                                      },
                                       "meta": {
                                         "ux": {
                                           "hasCustomName": true,
@@ -253,7 +259,320 @@
                                     {
                                       "type": "shape",
                                       "name": "Icon Home",
-                                      "id": "0a4e2f40-b9d8-4cb2-9729-9b174ae9bae1",
+                                      "id": "31e79392-9210-4e77-8a95-2e0f36c762e7",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 17.666667938232422,
+                                        "ty": 20
+                                      },
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "hasNameFromExternalSource": true,
+                                          "aspectLock": {
+                                            "width": 85,
+                                            "height": 94
+                                          },
+                                          "customConstraints": true,
+                                          "constraintLeft": true,
+                                          "constraintWidth": true,
+                                          "constraintTop": true,
+                                          "constraintHeight": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 128,
+                                            "height": 128,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "1e250df47ee9aac9f511c079874b0de6",
+                                                "hrefLastModifiedDate": 1611031073,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=31f39c62-2866-4216-9003-5e7fdac87938",
+                                                "linkedElementLastModified": 1611031071066
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/cf3954b5-be01-44bc-856e-d775295f7269.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 42.66666793823242,
+                                        "height": 47.1843147277832
+                                      }
+                                    },
+                                    {
+                                      "type": "text",
+                                      "name": "ホーム",
+                                      "meta": {
+                                        "ux": {
+                                          "nameL10N": "SHAPE_GROUP",
+                                          "customConstraints": true,
+                                          "constraintWidth": true,
+                                          "constraintHeight": true,
+                                          "singleTextObject": true,
+                                          "rangedStyles": [
+                                            {
+                                              "length": 0,
+                                              "linkId": "",
+                                              "fontFamily": "M+ 1c",
+                                              "fontStyle": "bold",
+                                              "postscriptName": "mplus-1c-bold",
+                                              "fontSize": 10,
+                                              "charSpacing": 0,
+                                              "underline": false,
+                                              "textTransform": "none",
+                                              "textScript": "none",
+                                              "fill": {
+                                                "value": 4294967295
+                                              },
+                                              "strikethrough": false
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "id": "df7794ae-9607-44e4-bce5-42230e97b45e",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 39,
+                                        "ty": 78
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "solid",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 255,
+                                              "g": 255,
+                                              "b": 255
+                                            }
+                                          }
+                                        },
+                                        "font": {
+                                          "postscriptName": "mplus-1c-bold",
+                                          "family": "M+ 1c",
+                                          "style": "bold",
+                                          "size": 10
+                                        },
+                                        "textAttributes": {
+                                          "paragraphAlign": "center"
+                                        }
+                                      },
+                                      "text": {
+                                        "frame": {
+                                          "type": "positioned"
+                                        },
+                                        "paragraphs": [
+                                          {
+                                            "lines": [
+                                              [
+                                                {
+                                                  "y": 0,
+                                                  "from": 0,
+                                                  "to": 3,
+                                                  "x": -15
+                                                }
+                                              ]
+                                            ]
+                                          }
+                                        ],
+                                        "rawText": "ホーム"
+                                      }
+                                    },
+                                    {
+                                      "type": "shape",
+                                      "name": "Notification",
+                                      "id": "e24d9fce-1396-4d93-b479-49a698b6c6bc",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 53,
+                                        "ty": 0
+                                      },
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "aspectLock": {
+                                            "width": 83,
+                                            "height": 83
+                                          },
+                                          "customConstraints": true,
+                                          "constraintWidth": true,
+                                          "constraintRight": true,
+                                          "constraintTop": true,
+                                          "constraintHeight": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 83,
+                                            "height": 83,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "10aaf4911ab43be0a2c5cad5adc02b8d",
+                                                "hrefLastModifiedDate": 1611031487,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=e7152675-93ef-4187-92ad-7f2628039f0a",
+                                                "linkedElementLastModified": 1611031481947
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/11ccc329-2065-408d-bfe5-4ce1e9547556.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 27.66666603088379,
+                                        "height": 27.66666603088379
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "type": "group",
+                                "name": "Footer Button",
+                                "id": "45d4f4ed-fd9d-4644-944e-a8fbf031a92e",
+                                "transform": {
+                                  "a": 1,
+                                  "b": 0,
+                                  "c": 0,
+                                  "d": 1,
+                                  "tx": -17,
+                                  "ty": -75
+                                },
+                                "meta": {
+                                  "ux": {
+                                    "hasCustomName": true,
+                                    "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
+                                    "width": 75.66666412353516,
+                                    "height": 174.3333282470703,
+                                    "componentType": "componentNoBounds",
+                                    "syncMap": {
+                                      "83f4f53f-ddcb-4103-8ce5-f72cceb9a90c": "7627b3a0-f26f-420c-bfe7-30ff1d6c6d8e",
+                                      "8bcbad9f-ee41-4708-b04d-8272eb3d078a": "f364aaf1-2a0b-4a13-b5cf-945297215ef6",
+                                      "d7471522-4682-491e-a7be-b5636257e24a": "9b3ed745-2d61-4f62-b01b-400e62547aee",
+                                      "e57cd9b3-c0b0-48d8-a62a-e40f8f126ff5": "f753af63-072b-48e6-acea-c26fbae5a54d"
+                                    },
+                                    "stateId": "a7af07fb-5dc0-42df-95fa-30c005ec40cc",
+                                    "symbolPaddingTop": -8,
+                                    "symbolPaddingRight": -5,
+                                    "isCustomNameInherited": true,
+                                    "listViewPosition": 0,
+                                    "assetGroupData": {
+                                      "groupComponents": "h"
+                                    }
+                                  }
+                                },
+                                "group": {
+                                  "children": [
+                                    {
+                                      "type": "shape",
+                                      "name": "Base",
+                                      "id": "f753af63-072b-48e6-acea-c26fbae5a54d",
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "aspectLock": {
+                                            "width": 227,
+                                            "height": 523
+                                          },
+                                          "customConstraints": true,
+                                          "constraintLeft": true,
+                                          "constraintRight": true,
+                                          "constraintTop": true,
+                                          "constraintBottom": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 227,
+                                            "height": 526,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "42b33eeff5d4dfa6d9264073bc127d28",
+                                                "hrefLastModifiedDate": 1611038532,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=c9134dbd-e9bb-43b8-95ee-7b33b36b7799",
+                                                "linkedElementLastModified": 1611038529475
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/8550c945-d858-4fd6-8115-9d1bf3d58710.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 75.66666412353516,
+                                        "height": 174.3333282470703
+                                      }
+                                    },
+                                    {
+                                      "type": "shape",
+                                      "name": "Icon Home",
+                                      "id": "7627b3a0-f26f-420c-bfe7-30ff1d6c6d8e",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
@@ -347,7 +666,7 @@
                                           ]
                                         }
                                       },
-                                      "id": "a8c1b62f-7bec-404a-98ca-7fe8b38a9437",
+                                      "id": "9b3ed745-2d61-4f62-b01b-400e62547aee",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
@@ -401,8 +720,8 @@
                                     },
                                     {
                                       "type": "shape",
-                                      "name": "11ccc329-2065-408d-bfe5-4ce1e9547556",
-                                      "id": "c599aad6-4c1a-4249-8ed7-602f756a0f6a",
+                                      "name": "Notification",
+                                      "id": "f364aaf1-2a0b-4a13-b5cf-945297215ef6",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
@@ -415,7 +734,6 @@
                                       "meta": {
                                         "ux": {
                                           "hasCustomName": true,
-                                          "hasNameFromExternalSource": true,
                                           "aspectLock": {
                                             "width": 83,
                                             "height": 83
@@ -481,7 +799,7 @@
                             {
                               "type": "shape",
                               "name": "Base",
-                              "id": "1a70a784-7e3c-458a-911b-c368e5e77cee",
+                              "id": "dc14dec2-5f33-4362-912b-e8b81a52b7d8",
                               "transform": {
                                 "a": 1,
                                 "b": 0,
@@ -546,8 +864,8 @@
                             },
                             {
                               "type": "shape",
-                              "name": "Icon",
-                              "id": "bf62edc6-bcf3-4936-a64f-9b0b9168a1ec",
+                              "name": "Icon Home",
+                              "id": "0a4e2f40-b9d8-4cb2-9729-9b174ae9bae1",
                               "transform": {
                                 "a": 1,
                                 "b": 0,
@@ -559,6 +877,7 @@
                               "meta": {
                                 "ux": {
                                   "hasCustomName": true,
+                                  "hasNameFromExternalSource": true,
                                   "aspectLock": {
                                     "width": 85,
                                     "height": 94
@@ -612,19 +931,10 @@
                             },
                             {
                               "type": "text",
-                              "name": "Text",
-                              "id": "20f7524a-80e9-4f21-9917-894b3c0687d9",
-                              "transform": {
-                                "a": 1,
-                                "b": 0,
-                                "c": 0,
-                                "d": 1,
-                                "tx": 39.000003814697266,
-                                "ty": 78.00000762939453
-                              },
+                              "name": "ホーム",
                               "meta": {
                                 "ux": {
-                                  "hasCustomName": true,
+                                  "nameL10N": "SHAPE_GROUP",
                                   "customConstraints": true,
                                   "constraintWidth": true,
                                   "constraintHeight": true,
@@ -648,6 +958,15 @@
                                     }
                                   ]
                                 }
+                              },
+                              "id": "a8c1b62f-7bec-404a-98ca-7fe8b38a9437",
+                              "transform": {
+                                "a": 1,
+                                "b": 0,
+                                "c": 0,
+                                "d": 1,
+                                "tx": 39,
+                                "ty": 78
                               },
                               "style": {
                                 "fill": {
@@ -695,13 +1014,13 @@
                             {
                               "type": "shape",
                               "name": "Notification",
-                              "id": "f617cf42-620d-417b-b7f4-ce0d21f56426",
+                              "id": "c599aad6-4c1a-4249-8ed7-602f756a0f6a",
                               "transform": {
                                 "a": 1,
                                 "b": 0,
                                 "c": 0,
                                 "d": 1,
-                                "tx": 53.00000762939453,
+                                "tx": 53,
                                 "ty": 0
                               },
                               "meta": {
@@ -771,7 +1090,7 @@
                           "c": 0,
                           "d": 1,
                           "tx": 109,
-                          "ty": 723.6666259765625
+                          "ty": 715.6666259765625
                         },
                         "meta": {
                           "ux": {
@@ -781,8 +1100,8 @@
                             "constraintTop": true,
                             "constraintBottom": true,
                             "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                            "width": 75.66666412353516,
-                            "height": 174.3333282470703,
+                            "width": 80.66666412353516,
+                            "height": 182.3333282470703,
                             "componentType": "componentNoBounds",
                             "syncMap": {
                               "06f31d4d-1969-4ff6-9125-5c725af6bc16": "96a4bc8a-7bb9-4b64-a80b-73a102963172",
@@ -795,7 +1114,7 @@
                               {
                                 "type": "group",
                                 "name": "Footer Button",
-                                "id": "87e75232-9feb-44be-921e-fbf01d1c7f8c",
+                                "id": "5f19ce80-cc1a-4198-a7ce-b700c1ef9307",
                                 "transform": {
                                   "a": 1,
                                   "b": 0,
@@ -808,20 +1127,18 @@
                                   "ux": {
                                     "hasCustomName": true,
                                     "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                                    "width": 80.66667175292969,
+                                    "width": 80.66666412353516,
                                     "height": 182.3333282470703,
                                     "componentType": "componentNoBounds",
                                     "syncMap": {
-                                      "5802331e-4541-4ee6-8a04-1e335156d3d7": "e5aee46b-dbef-40a9-8699-46a00b0738ee",
-                                      "98a9c51a-7472-4511-b178-4e53e4234794": "bacf6928-e1f1-4116-b4f8-85c27882ae58",
-                                      "d5e28998-f162-4513-bbeb-e74324ca8533": "a1b69555-4f60-4db7-b39d-4e25ec8de0ee",
-                                      "dcb498c9-29dd-4aac-b6d2-1e2126aed568": "26784d8b-891a-413a-87a3-32c0407bf0c4"
+                                      "967d8b29-1ea4-4722-9d5a-c7f97e3aecf6": "46e712f9-1f34-4d01-b912-b16fdb366d30",
+                                      "96886cc2-6d00-48a2-8c64-7c12998cec7c": "9c2305b6-5dc2-4f9e-9d57-3efb5902d481",
+                                      "be013688-43ef-41a4-b067-f9cc8a2fb535": "649369db-37df-4331-be2a-ad94fd39ee64",
+                                      "d1d54f93-9a83-4b1d-8469-c08af3bafdc4": "91e21ffb-b5ba-445b-a2c6-d575a1a9a7ce"
                                     },
-                                    "stateId": "ec9417b4-6650-4cf1-8f42-c792544349b3",
-                                    "symbolPaddingTop": 8,
-                                    "symbolPaddingRight": 5,
-                                    "symbolPaddingBottom": -1.52587890625e-05,
+                                    "stateId": "1e651266-99e8-494e-a1c5-8b48c18cde4b",
                                     "isCustomNameInherited": true,
+                                    "listViewPosition": 0,
                                     "assetGroupData": {
                                       "groupComponents": "h"
                                     }
@@ -832,7 +1149,7 @@
                                     {
                                       "type": "shape",
                                       "name": "Base",
-                                      "id": "bacf6928-e1f1-4116-b4f8-85c27882ae58",
+                                      "id": "91e21ffb-b5ba-445b-a2c6-d575a1a9a7ce",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
@@ -897,8 +1214,8 @@
                                     },
                                     {
                                       "type": "shape",
-                                      "name": "Icon",
-                                      "id": "e5aee46b-dbef-40a9-8699-46a00b0738ee",
+                                      "name": "Icon Home",
+                                      "id": "46e712f9-1f34-4d01-b912-b16fdb366d30",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
@@ -910,6 +1227,7 @@
                                       "meta": {
                                         "ux": {
                                           "hasCustomName": true,
+                                          "hasNameFromExternalSource": true,
                                           "aspectLock": {
                                             "width": 85,
                                             "height": 94
@@ -963,19 +1281,10 @@
                                     },
                                     {
                                       "type": "text",
-                                      "name": "Text",
-                                      "id": "a1b69555-4f60-4db7-b39d-4e25ec8de0ee",
-                                      "transform": {
-                                        "a": 1,
-                                        "b": 0,
-                                        "c": 0,
-                                        "d": 1,
-                                        "tx": 39.000003814697266,
-                                        "ty": 78.00000762939453
-                                      },
+                                      "name": "ホーム",
                                       "meta": {
                                         "ux": {
-                                          "hasCustomName": true,
+                                          "nameL10N": "SHAPE_GROUP",
                                           "customConstraints": true,
                                           "constraintWidth": true,
                                           "constraintHeight": true,
@@ -999,6 +1308,15 @@
                                             }
                                           ]
                                         }
+                                      },
+                                      "id": "9c2305b6-5dc2-4f9e-9d57-3efb5902d481",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 39,
+                                        "ty": 78
                                       },
                                       "style": {
                                         "fill": {
@@ -1046,15 +1364,329 @@
                                     {
                                       "type": "shape",
                                       "name": "Notification",
-                                      "id": "26784d8b-891a-413a-87a3-32c0407bf0c4",
+                                      "id": "649369db-37df-4331-be2a-ad94fd39ee64",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
                                         "c": 0,
                                         "d": 1,
-                                        "tx": 53.00000762939453,
+                                        "tx": 53,
                                         "ty": 0
                                       },
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "aspectLock": {
+                                            "width": 83,
+                                            "height": 83
+                                          },
+                                          "customConstraints": true,
+                                          "constraintWidth": true,
+                                          "constraintRight": true,
+                                          "constraintTop": true,
+                                          "constraintHeight": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 83,
+                                            "height": 83,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "10aaf4911ab43be0a2c5cad5adc02b8d",
+                                                "hrefLastModifiedDate": 1611031487,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=e7152675-93ef-4187-92ad-7f2628039f0a",
+                                                "linkedElementLastModified": 1611031481947
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/11ccc329-2065-408d-bfe5-4ce1e9547556.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 27.66666603088379,
+                                        "height": 27.66666603088379
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "type": "group",
+                                "name": "Footer Button",
+                                "id": "60b151af-f18b-4000-9ef5-539bbc8acf91",
+                                "transform": {
+                                  "a": 1,
+                                  "b": 0,
+                                  "c": 0,
+                                  "d": 1,
+                                  "tx": -17,
+                                  "ty": -75
+                                },
+                                "meta": {
+                                  "ux": {
+                                    "hasCustomName": true,
+                                    "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
+                                    "width": 75.66666412353516,
+                                    "height": 174.3333282470703,
+                                    "componentType": "componentNoBounds",
+                                    "syncMap": {
+                                      "83f4f53f-ddcb-4103-8ce5-f72cceb9a90c": "d49ba015-f953-4416-bf8b-126f7d5a88fd",
+                                      "8bcbad9f-ee41-4708-b04d-8272eb3d078a": "9a60c6c4-91ca-42cd-be13-abb7c6765179",
+                                      "d7471522-4682-491e-a7be-b5636257e24a": "7d9d3a19-d0b3-41ad-9bc3-98f1b4c85eb4",
+                                      "e57cd9b3-c0b0-48d8-a62a-e40f8f126ff5": "d025a898-8c49-4c06-a214-5c14db527c8b"
+                                    },
+                                    "stateId": "a7af07fb-5dc0-42df-95fa-30c005ec40cc",
+                                    "symbolPaddingTop": -8,
+                                    "symbolPaddingRight": -5,
+                                    "isCustomNameInherited": true,
+                                    "listViewPosition": 0,
+                                    "assetGroupData": {
+                                      "groupComponents": "h"
+                                    }
+                                  }
+                                },
+                                "group": {
+                                  "children": [
+                                    {
+                                      "type": "shape",
+                                      "name": "Base",
+                                      "id": "d025a898-8c49-4c06-a214-5c14db527c8b",
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "aspectLock": {
+                                            "width": 227,
+                                            "height": 523
+                                          },
+                                          "customConstraints": true,
+                                          "constraintLeft": true,
+                                          "constraintRight": true,
+                                          "constraintTop": true,
+                                          "constraintBottom": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 227,
+                                            "height": 526,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "42b33eeff5d4dfa6d9264073bc127d28",
+                                                "hrefLastModifiedDate": 1611038532,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=c9134dbd-e9bb-43b8-95ee-7b33b36b7799",
+                                                "linkedElementLastModified": 1611038529475
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/8550c945-d858-4fd6-8115-9d1bf3d58710.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 75.66666412353516,
+                                        "height": 174.3333282470703
+                                      }
+                                    },
+                                    {
+                                      "type": "shape",
+                                      "name": "Icon Home",
+                                      "id": "d49ba015-f953-4416-bf8b-126f7d5a88fd",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 17.666667938232422,
+                                        "ty": 12
+                                      },
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "hasNameFromExternalSource": true,
+                                          "aspectLock": {
+                                            "width": 85,
+                                            "height": 94
+                                          },
+                                          "customConstraints": true,
+                                          "constraintLeft": true,
+                                          "constraintWidth": true,
+                                          "constraintTop": true,
+                                          "constraintHeight": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 128,
+                                            "height": 128,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "1e250df47ee9aac9f511c079874b0de6",
+                                                "hrefLastModifiedDate": 1611031073,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=31f39c62-2866-4216-9003-5e7fdac87938",
+                                                "linkedElementLastModified": 1611031071066
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/cf3954b5-be01-44bc-856e-d775295f7269.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 42.66666793823242,
+                                        "height": 47.1843147277832
+                                      }
+                                    },
+                                    {
+                                      "type": "text",
+                                      "name": "ホーム",
+                                      "meta": {
+                                        "ux": {
+                                          "nameL10N": "SHAPE_GROUP",
+                                          "customConstraints": true,
+                                          "constraintWidth": true,
+                                          "constraintHeight": true,
+                                          "singleTextObject": true,
+                                          "rangedStyles": [
+                                            {
+                                              "length": 0,
+                                              "linkId": "",
+                                              "fontFamily": "M+ 1c",
+                                              "fontStyle": "bold",
+                                              "postscriptName": "mplus-1c-bold",
+                                              "fontSize": 10,
+                                              "charSpacing": 0,
+                                              "underline": false,
+                                              "textTransform": "none",
+                                              "textScript": "none",
+                                              "fill": {
+                                                "value": 4294967295
+                                              },
+                                              "strikethrough": false
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "id": "7d9d3a19-d0b3-41ad-9bc3-98f1b4c85eb4",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 39,
+                                        "ty": 70
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "solid",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 255,
+                                              "g": 255,
+                                              "b": 255
+                                            }
+                                          }
+                                        },
+                                        "font": {
+                                          "postscriptName": "mplus-1c-bold",
+                                          "family": "M+ 1c",
+                                          "style": "bold",
+                                          "size": 10
+                                        },
+                                        "textAttributes": {
+                                          "paragraphAlign": "center"
+                                        }
+                                      },
+                                      "text": {
+                                        "frame": {
+                                          "type": "positioned"
+                                        },
+                                        "paragraphs": [
+                                          {
+                                            "lines": [
+                                              [
+                                                {
+                                                  "y": 0,
+                                                  "from": 0,
+                                                  "to": 3,
+                                                  "x": -15
+                                                }
+                                              ]
+                                            ]
+                                          }
+                                        ],
+                                        "rawText": "ホーム"
+                                      }
+                                    },
+                                    {
+                                      "type": "shape",
+                                      "name": "Notification",
+                                      "id": "9a60c6c4-91ca-42cd-be13-abb7c6765179",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 53,
+                                        "ty": -8
+                                      },
+                                      "visible": false,
                                       "meta": {
                                         "ux": {
                                           "hasCustomName": true,
@@ -1121,6 +1753,14 @@
                               "type": "shape",
                               "name": "Base",
                               "id": "82067da6-2037-4671-8c61-54595325a54a",
+                              "transform": {
+                                "a": 1,
+                                "b": 0,
+                                "c": 0,
+                                "d": 1,
+                                "tx": 0,
+                                "ty": 8
+                              },
                               "meta": {
                                 "ux": {
                                   "hasCustomName": true,
@@ -1185,7 +1825,7 @@
                                 "c": 0,
                                 "d": 1,
                                 "tx": 17.666667938232422,
-                                "ty": 12
+                                "ty": 20
                               },
                               "meta": {
                                 "ux": {
@@ -1290,7 +1930,7 @@
                                 "c": 0,
                                 "d": 1,
                                 "tx": 39,
-                                "ty": 70
+                                "ty": 78
                               },
                               "style": {
                                 "fill": {
@@ -1337,7 +1977,7 @@
                             },
                             {
                               "type": "shape",
-                              "name": "11ccc329-2065-408d-bfe5-4ce1e9547556",
+                              "name": "Notification",
                               "id": "27955dc7-3c21-44c8-9f7b-aa1c7598ec6a",
                               "transform": {
                                 "a": 1,
@@ -1345,13 +1985,11 @@
                                 "c": 0,
                                 "d": 1,
                                 "tx": 53,
-                                "ty": -8
+                                "ty": 0
                               },
-                              "visible": false,
                               "meta": {
                                 "ux": {
                                   "hasCustomName": true,
-                                  "hasNameFromExternalSource": true,
                                   "aspectLock": {
                                     "width": 83,
                                     "height": 83
@@ -1416,7 +2054,7 @@
                           "c": 0,
                           "d": 1,
                           "tx": 187,
-                          "ty": 723.6666259765625
+                          "ty": 715.6666259765625
                         },
                         "meta": {
                           "ux": {
@@ -1426,8 +2064,8 @@
                             "constraintTop": true,
                             "constraintBottom": true,
                             "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                            "width": 75.66666412353516,
-                            "height": 174.3333282470703,
+                            "width": 80.66666412353516,
+                            "height": 182.3333282470703,
                             "componentType": "componentNoBounds",
                             "syncMap": {
                               "06f31d4d-1969-4ff6-9125-5c725af6bc16": "2cb45717-9c17-4538-ae86-241b3992d120",
@@ -1440,7 +2078,7 @@
                               {
                                 "type": "group",
                                 "name": "Footer Button",
-                                "id": "0e3c9e18-4e65-4ef4-8e75-6328c474c6f1",
+                                "id": "4ebb2e83-871d-4d23-a714-954793d3a593",
                                 "transform": {
                                   "a": 1,
                                   "b": 0,
@@ -1453,20 +2091,18 @@
                                   "ux": {
                                     "hasCustomName": true,
                                     "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                                    "width": 80.66667175292969,
+                                    "width": 80.66666412353516,
                                     "height": 182.3333282470703,
                                     "componentType": "componentNoBounds",
                                     "syncMap": {
-                                      "5802331e-4541-4ee6-8a04-1e335156d3d7": "7d67ffa4-3190-4804-9c0c-bda532eb8665",
-                                      "98a9c51a-7472-4511-b178-4e53e4234794": "ec11f255-22ae-4818-ada0-3892cd09594f",
-                                      "d5e28998-f162-4513-bbeb-e74324ca8533": "cc587ac5-9047-45ad-9811-885ad8b22621",
-                                      "dcb498c9-29dd-4aac-b6d2-1e2126aed568": "05923f95-329e-43b3-bec5-8bf0a7f9235b"
+                                      "967d8b29-1ea4-4722-9d5a-c7f97e3aecf6": "0ad79a9b-5498-402f-ba59-e31630b44091",
+                                      "96886cc2-6d00-48a2-8c64-7c12998cec7c": "d891bb33-d57e-4889-aa2d-e577b8270b57",
+                                      "be013688-43ef-41a4-b067-f9cc8a2fb535": "6a0658ea-eee3-4ce8-a580-12af6efad125",
+                                      "d1d54f93-9a83-4b1d-8469-c08af3bafdc4": "7efb5327-65e3-4d8f-8b97-c09d5b665105"
                                     },
-                                    "stateId": "ec9417b4-6650-4cf1-8f42-c792544349b3",
-                                    "symbolPaddingTop": 8,
-                                    "symbolPaddingRight": 5,
-                                    "symbolPaddingBottom": -1.52587890625e-05,
+                                    "stateId": "1e651266-99e8-494e-a1c5-8b48c18cde4b",
                                     "isCustomNameInherited": true,
+                                    "listViewPosition": 0,
                                     "assetGroupData": {
                                       "groupComponents": "h"
                                     }
@@ -1477,7 +2113,7 @@
                                     {
                                       "type": "shape",
                                       "name": "Base",
-                                      "id": "ec11f255-22ae-4818-ada0-3892cd09594f",
+                                      "id": "7efb5327-65e3-4d8f-8b97-c09d5b665105",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
@@ -1542,8 +2178,8 @@
                                     },
                                     {
                                       "type": "shape",
-                                      "name": "Icon",
-                                      "id": "7d67ffa4-3190-4804-9c0c-bda532eb8665",
+                                      "name": "Icon Home",
+                                      "id": "0ad79a9b-5498-402f-ba59-e31630b44091",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
@@ -1555,6 +2191,7 @@
                                       "meta": {
                                         "ux": {
                                           "hasCustomName": true,
+                                          "hasNameFromExternalSource": true,
                                           "aspectLock": {
                                             "width": 85,
                                             "height": 94
@@ -1608,19 +2245,10 @@
                                     },
                                     {
                                       "type": "text",
-                                      "name": "Text",
-                                      "id": "cc587ac5-9047-45ad-9811-885ad8b22621",
-                                      "transform": {
-                                        "a": 1,
-                                        "b": 0,
-                                        "c": 0,
-                                        "d": 1,
-                                        "tx": 39.000003814697266,
-                                        "ty": 78.00000762939453
-                                      },
+                                      "name": "ホーム",
                                       "meta": {
                                         "ux": {
-                                          "hasCustomName": true,
+                                          "nameL10N": "SHAPE_GROUP",
                                           "customConstraints": true,
                                           "constraintWidth": true,
                                           "constraintHeight": true,
@@ -1644,6 +2272,15 @@
                                             }
                                           ]
                                         }
+                                      },
+                                      "id": "d891bb33-d57e-4889-aa2d-e577b8270b57",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 39,
+                                        "ty": 78
                                       },
                                       "style": {
                                         "fill": {
@@ -1691,15 +2328,329 @@
                                     {
                                       "type": "shape",
                                       "name": "Notification",
-                                      "id": "05923f95-329e-43b3-bec5-8bf0a7f9235b",
+                                      "id": "6a0658ea-eee3-4ce8-a580-12af6efad125",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
                                         "c": 0,
                                         "d": 1,
-                                        "tx": 53.00000762939453,
+                                        "tx": 53,
                                         "ty": 0
                                       },
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "aspectLock": {
+                                            "width": 83,
+                                            "height": 83
+                                          },
+                                          "customConstraints": true,
+                                          "constraintWidth": true,
+                                          "constraintRight": true,
+                                          "constraintTop": true,
+                                          "constraintHeight": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 83,
+                                            "height": 83,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "10aaf4911ab43be0a2c5cad5adc02b8d",
+                                                "hrefLastModifiedDate": 1611031487,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=e7152675-93ef-4187-92ad-7f2628039f0a",
+                                                "linkedElementLastModified": 1611031481947
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/11ccc329-2065-408d-bfe5-4ce1e9547556.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 27.66666603088379,
+                                        "height": 27.66666603088379
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "type": "group",
+                                "name": "Footer Button",
+                                "id": "e4ac5d9a-001a-48fe-b1ac-82c030666b38",
+                                "transform": {
+                                  "a": 1,
+                                  "b": 0,
+                                  "c": 0,
+                                  "d": 1,
+                                  "tx": -17,
+                                  "ty": -75
+                                },
+                                "meta": {
+                                  "ux": {
+                                    "hasCustomName": true,
+                                    "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
+                                    "width": 75.66666412353516,
+                                    "height": 174.3333282470703,
+                                    "componentType": "componentNoBounds",
+                                    "syncMap": {
+                                      "83f4f53f-ddcb-4103-8ce5-f72cceb9a90c": "7a8808fd-c7fd-4290-b533-96926b6254fb",
+                                      "8bcbad9f-ee41-4708-b04d-8272eb3d078a": "4f74681c-dd14-43c7-b997-a0b80a49cbbd",
+                                      "d7471522-4682-491e-a7be-b5636257e24a": "136478e7-3183-4f91-a6dc-a255fb8064e5",
+                                      "e57cd9b3-c0b0-48d8-a62a-e40f8f126ff5": "f3d56059-8adf-4c3e-bb2a-abcaa7b07df4"
+                                    },
+                                    "stateId": "a7af07fb-5dc0-42df-95fa-30c005ec40cc",
+                                    "symbolPaddingTop": -8,
+                                    "symbolPaddingRight": -5,
+                                    "isCustomNameInherited": true,
+                                    "listViewPosition": 0,
+                                    "assetGroupData": {
+                                      "groupComponents": "h"
+                                    }
+                                  }
+                                },
+                                "group": {
+                                  "children": [
+                                    {
+                                      "type": "shape",
+                                      "name": "Base",
+                                      "id": "f3d56059-8adf-4c3e-bb2a-abcaa7b07df4",
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "aspectLock": {
+                                            "width": 227,
+                                            "height": 523
+                                          },
+                                          "customConstraints": true,
+                                          "constraintLeft": true,
+                                          "constraintRight": true,
+                                          "constraintTop": true,
+                                          "constraintBottom": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 227,
+                                            "height": 526,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "42b33eeff5d4dfa6d9264073bc127d28",
+                                                "hrefLastModifiedDate": 1611038532,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=c9134dbd-e9bb-43b8-95ee-7b33b36b7799",
+                                                "linkedElementLastModified": 1611038529475
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/8550c945-d858-4fd6-8115-9d1bf3d58710.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 75.66666412353516,
+                                        "height": 174.3333282470703
+                                      }
+                                    },
+                                    {
+                                      "type": "shape",
+                                      "name": "Icon Home",
+                                      "id": "7a8808fd-c7fd-4290-b533-96926b6254fb",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 17.666667938232422,
+                                        "ty": 12
+                                      },
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "hasNameFromExternalSource": true,
+                                          "aspectLock": {
+                                            "width": 85,
+                                            "height": 94
+                                          },
+                                          "customConstraints": true,
+                                          "constraintLeft": true,
+                                          "constraintWidth": true,
+                                          "constraintTop": true,
+                                          "constraintHeight": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 128,
+                                            "height": 128,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "1e250df47ee9aac9f511c079874b0de6",
+                                                "hrefLastModifiedDate": 1611031073,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=31f39c62-2866-4216-9003-5e7fdac87938",
+                                                "linkedElementLastModified": 1611031071066
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/cf3954b5-be01-44bc-856e-d775295f7269.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 42.66666793823242,
+                                        "height": 47.1843147277832
+                                      }
+                                    },
+                                    {
+                                      "type": "text",
+                                      "name": "ホーム",
+                                      "meta": {
+                                        "ux": {
+                                          "nameL10N": "SHAPE_GROUP",
+                                          "customConstraints": true,
+                                          "constraintWidth": true,
+                                          "constraintHeight": true,
+                                          "singleTextObject": true,
+                                          "rangedStyles": [
+                                            {
+                                              "length": 0,
+                                              "linkId": "",
+                                              "fontFamily": "M+ 1c",
+                                              "fontStyle": "bold",
+                                              "postscriptName": "mplus-1c-bold",
+                                              "fontSize": 10,
+                                              "charSpacing": 0,
+                                              "underline": false,
+                                              "textTransform": "none",
+                                              "textScript": "none",
+                                              "fill": {
+                                                "value": 4294967295
+                                              },
+                                              "strikethrough": false
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "id": "136478e7-3183-4f91-a6dc-a255fb8064e5",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 39,
+                                        "ty": 70
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "solid",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 255,
+                                              "g": 255,
+                                              "b": 255
+                                            }
+                                          }
+                                        },
+                                        "font": {
+                                          "postscriptName": "mplus-1c-bold",
+                                          "family": "M+ 1c",
+                                          "style": "bold",
+                                          "size": 10
+                                        },
+                                        "textAttributes": {
+                                          "paragraphAlign": "center"
+                                        }
+                                      },
+                                      "text": {
+                                        "frame": {
+                                          "type": "positioned"
+                                        },
+                                        "paragraphs": [
+                                          {
+                                            "lines": [
+                                              [
+                                                {
+                                                  "y": 0,
+                                                  "from": 0,
+                                                  "to": 3,
+                                                  "x": -15
+                                                }
+                                              ]
+                                            ]
+                                          }
+                                        ],
+                                        "rawText": "ホーム"
+                                      }
+                                    },
+                                    {
+                                      "type": "shape",
+                                      "name": "Notification",
+                                      "id": "4f74681c-dd14-43c7-b997-a0b80a49cbbd",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 53,
+                                        "ty": -8
+                                      },
+                                      "visible": false,
                                       "meta": {
                                         "ux": {
                                           "hasCustomName": true,
@@ -1766,6 +2717,14 @@
                               "type": "shape",
                               "name": "Base",
                               "id": "0954081f-28c1-4fb0-8588-56c1c2e26212",
+                              "transform": {
+                                "a": 1,
+                                "b": 0,
+                                "c": 0,
+                                "d": 1,
+                                "tx": 0,
+                                "ty": 8
+                              },
                               "meta": {
                                 "ux": {
                                   "hasCustomName": true,
@@ -1830,7 +2789,7 @@
                                 "c": 0,
                                 "d": 1,
                                 "tx": 17.666667938232422,
-                                "ty": 12
+                                "ty": 20
                               },
                               "meta": {
                                 "ux": {
@@ -1935,7 +2894,7 @@
                                 "c": 0,
                                 "d": 1,
                                 "tx": 39,
-                                "ty": 70
+                                "ty": 78
                               },
                               "style": {
                                 "fill": {
@@ -1982,7 +2941,7 @@
                             },
                             {
                               "type": "shape",
-                              "name": "11ccc329-2065-408d-bfe5-4ce1e9547556",
+                              "name": "Notification",
                               "id": "a70af05d-fed3-4dfc-a6f7-8d281716689d",
                               "transform": {
                                 "a": 1,
@@ -1990,13 +2949,11 @@
                                 "c": 0,
                                 "d": 1,
                                 "tx": 53,
-                                "ty": -8
+                                "ty": 0
                               },
-                              "visible": false,
                               "meta": {
                                 "ux": {
                                   "hasCustomName": true,
-                                  "hasNameFromExternalSource": true,
                                   "aspectLock": {
                                     "width": 83,
                                     "height": 83
@@ -2061,7 +3018,7 @@
                           "c": 0,
                           "d": 1,
                           "tx": 265,
-                          "ty": 723.6666259765625
+                          "ty": 715.6666259765625
                         },
                         "meta": {
                           "ux": {
@@ -2072,8 +3029,8 @@
                             "constraintTop": true,
                             "constraintBottom": true,
                             "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                            "width": 75.66666412353516,
-                            "height": 174.3333282470703,
+                            "width": 80.66666412353516,
+                            "height": 182.3333282470703,
                             "componentType": "componentNoBounds",
                             "syncMap": {
                               "06f31d4d-1969-4ff6-9125-5c725af6bc16": "1b9be424-c789-402c-9841-5e9ccf625487",
@@ -2085,34 +3042,36 @@
                             "states": [
                               {
                                 "type": "group",
-                                "name": "Footer Button",
-                                "id": "61addd7d-3e00-415d-ad5f-2cf0c5646cd9",
+                                "name": "Friend Button",
+                                "id": "b4f04b79-a307-4bc0-b9ab-1697c80af2c5",
                                 "transform": {
                                   "a": 1,
                                   "b": 0,
                                   "c": 0,
                                   "d": 1,
-                                  "tx": -17,
-                                  "ty": -83
+                                  "tx": 265,
+                                  "ty": 715.6666259765625
                                 },
                                 "meta": {
                                   "ux": {
                                     "hasCustomName": true,
+                                    "customConstraints": true,
+                                    "constraintWidth": true,
+                                    "constraintRight": true,
+                                    "constraintTop": true,
+                                    "constraintBottom": true,
                                     "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                                    "width": 80.66667175292969,
+                                    "width": 80.66666412353516,
                                     "height": 182.3333282470703,
                                     "componentType": "componentNoBounds",
                                     "syncMap": {
-                                      "5802331e-4541-4ee6-8a04-1e335156d3d7": "ad75e43f-1d5c-4df9-bf1e-2a44f80d948c",
-                                      "98a9c51a-7472-4511-b178-4e53e4234794": "46e8a0c2-d5e2-4887-9792-153fbd321dc5",
-                                      "d5e28998-f162-4513-bbeb-e74324ca8533": "f81fe323-0ff0-430b-b00f-bce590ada319",
-                                      "dcb498c9-29dd-4aac-b6d2-1e2126aed568": "b28e5155-1b38-4961-aceb-acb3ecaa77a5"
+                                      "967d8b29-1ea4-4722-9d5a-c7f97e3aecf6": "1af2f4a9-3fee-4d0d-9536-f28468d5f3b4",
+                                      "96886cc2-6d00-48a2-8c64-7c12998cec7c": "7a72cca2-af24-4abb-a62a-37751385c1f7",
+                                      "be013688-43ef-41a4-b067-f9cc8a2fb535": "3c0fb32d-5749-4554-a361-d2e53fe96fd5",
+                                      "d1d54f93-9a83-4b1d-8469-c08af3bafdc4": "39b1f773-9398-4ea9-9c50-01372ea626b0"
                                     },
-                                    "stateId": "ec9417b4-6650-4cf1-8f42-c792544349b3",
-                                    "symbolPaddingTop": 8,
-                                    "symbolPaddingRight": 5,
-                                    "symbolPaddingBottom": -1.52587890625e-05,
-                                    "isCustomNameInherited": true,
+                                    "stateId": "1e651266-99e8-494e-a1c5-8b48c18cde4b",
+                                    "listViewPosition": 0,
                                     "assetGroupData": {
                                       "groupComponents": "h"
                                     }
@@ -2123,7 +3082,7 @@
                                     {
                                       "type": "shape",
                                       "name": "Base",
-                                      "id": "46e8a0c2-d5e2-4887-9792-153fbd321dc5",
+                                      "id": "39b1f773-9398-4ea9-9c50-01372ea626b0",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
@@ -2188,8 +3147,8 @@
                                     },
                                     {
                                       "type": "shape",
-                                      "name": "Icon",
-                                      "id": "ad75e43f-1d5c-4df9-bf1e-2a44f80d948c",
+                                      "name": "Icon Home",
+                                      "id": "1af2f4a9-3fee-4d0d-9536-f28468d5f3b4",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
@@ -2201,6 +3160,7 @@
                                       "meta": {
                                         "ux": {
                                           "hasCustomName": true,
+                                          "hasNameFromExternalSource": true,
                                           "aspectLock": {
                                             "width": 85,
                                             "height": 94
@@ -2254,19 +3214,10 @@
                                     },
                                     {
                                       "type": "text",
-                                      "name": "Text",
-                                      "id": "f81fe323-0ff0-430b-b00f-bce590ada319",
-                                      "transform": {
-                                        "a": 1,
-                                        "b": 0,
-                                        "c": 0,
-                                        "d": 1,
-                                        "tx": 39.000003814697266,
-                                        "ty": 78.00000762939453
-                                      },
+                                      "name": "ホーム",
                                       "meta": {
                                         "ux": {
-                                          "hasCustomName": true,
+                                          "nameL10N": "SHAPE_GROUP",
                                           "customConstraints": true,
                                           "constraintWidth": true,
                                           "constraintHeight": true,
@@ -2290,6 +3241,15 @@
                                             }
                                           ]
                                         }
+                                      },
+                                      "id": "7a72cca2-af24-4abb-a62a-37751385c1f7",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 39,
+                                        "ty": 78
                                       },
                                       "style": {
                                         "fill": {
@@ -2337,15 +3297,333 @@
                                     {
                                       "type": "shape",
                                       "name": "Notification",
-                                      "id": "b28e5155-1b38-4961-aceb-acb3ecaa77a5",
+                                      "id": "3c0fb32d-5749-4554-a361-d2e53fe96fd5",
                                       "transform": {
                                         "a": 1,
                                         "b": 0,
                                         "c": 0,
                                         "d": 1,
-                                        "tx": 53.00000762939453,
+                                        "tx": 53,
                                         "ty": 0
                                       },
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "aspectLock": {
+                                            "width": 83,
+                                            "height": 83
+                                          },
+                                          "customConstraints": true,
+                                          "constraintWidth": true,
+                                          "constraintRight": true,
+                                          "constraintTop": true,
+                                          "constraintHeight": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 83,
+                                            "height": 83,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "10aaf4911ab43be0a2c5cad5adc02b8d",
+                                                "hrefLastModifiedDate": 1611031487,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=e7152675-93ef-4187-92ad-7f2628039f0a",
+                                                "linkedElementLastModified": 1611031481947
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/11ccc329-2065-408d-bfe5-4ce1e9547556.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 27.66666603088379,
+                                        "height": 27.66666603088379
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "type": "group",
+                                "name": "Friend Button",
+                                "id": "394f1663-9c7e-4115-a40b-33a32d288b95",
+                                "transform": {
+                                  "a": 1,
+                                  "b": 0,
+                                  "c": 0,
+                                  "d": 1,
+                                  "tx": 265,
+                                  "ty": 723.6666259765625
+                                },
+                                "meta": {
+                                  "ux": {
+                                    "hasCustomName": true,
+                                    "customConstraints": true,
+                                    "constraintWidth": true,
+                                    "constraintRight": true,
+                                    "constraintTop": true,
+                                    "constraintBottom": true,
+                                    "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
+                                    "width": 75.66666412353516,
+                                    "height": 174.3333282470703,
+                                    "componentType": "componentNoBounds",
+                                    "syncMap": {
+                                      "83f4f53f-ddcb-4103-8ce5-f72cceb9a90c": "1cae5c7d-dfd0-4aa7-89f5-e38216cbcdbf",
+                                      "8bcbad9f-ee41-4708-b04d-8272eb3d078a": "cc3f6e6d-5b4f-4c37-8636-a263e9496770",
+                                      "d7471522-4682-491e-a7be-b5636257e24a": "1146cbda-5ebd-4ef0-80a7-5816f123bbeb",
+                                      "e57cd9b3-c0b0-48d8-a62a-e40f8f126ff5": "990a0661-2fea-4dc0-942b-205cbb4d08d4"
+                                    },
+                                    "stateId": "a7af07fb-5dc0-42df-95fa-30c005ec40cc",
+                                    "symbolPaddingTop": -8,
+                                    "symbolPaddingRight": -5,
+                                    "listViewPosition": 0,
+                                    "assetGroupData": {
+                                      "groupComponents": "h"
+                                    }
+                                  }
+                                },
+                                "group": {
+                                  "children": [
+                                    {
+                                      "type": "shape",
+                                      "name": "Base",
+                                      "id": "990a0661-2fea-4dc0-942b-205cbb4d08d4",
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "aspectLock": {
+                                            "width": 227,
+                                            "height": 523
+                                          },
+                                          "customConstraints": true,
+                                          "constraintLeft": true,
+                                          "constraintRight": true,
+                                          "constraintTop": true,
+                                          "constraintBottom": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 227,
+                                            "height": 526,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "42b33eeff5d4dfa6d9264073bc127d28",
+                                                "hrefLastModifiedDate": 1611038532,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=c9134dbd-e9bb-43b8-95ee-7b33b36b7799",
+                                                "linkedElementLastModified": 1611038529475
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/8550c945-d858-4fd6-8115-9d1bf3d58710.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 75.66666412353516,
+                                        "height": 174.3333282470703
+                                      }
+                                    },
+                                    {
+                                      "type": "shape",
+                                      "name": "Icon Home",
+                                      "id": "1cae5c7d-dfd0-4aa7-89f5-e38216cbcdbf",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 17.666667938232422,
+                                        "ty": 12
+                                      },
+                                      "meta": {
+                                        "ux": {
+                                          "hasCustomName": true,
+                                          "hasNameFromExternalSource": true,
+                                          "aspectLock": {
+                                            "width": 85,
+                                            "height": 94
+                                          },
+                                          "customConstraints": true,
+                                          "constraintLeft": true,
+                                          "constraintWidth": true,
+                                          "constraintTop": true,
+                                          "constraintHeight": true
+                                        }
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "pattern",
+                                          "pattern": {
+                                            "width": 128,
+                                            "height": 128,
+                                            "meta": {
+                                              "ux": {
+                                                "scaleBehavior": "cover",
+                                                "uid": "1e250df47ee9aac9f511c079874b0de6",
+                                                "hrefLastModifiedDate": 1611031073,
+                                                "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=31f39c62-2866-4216-9003-5e7fdac87938",
+                                                "linkedElementLastModified": 1611031071066
+                                              }
+                                            },
+                                            "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/cf3954b5-be01-44bc-856e-d775295f7269.png"
+                                          }
+                                        },
+                                        "stroke": {
+                                          "type": "none",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 112,
+                                              "g": 112,
+                                              "b": 112
+                                            }
+                                          },
+                                          "width": 1,
+                                          "align": "inside"
+                                        }
+                                      },
+                                      "shape": {
+                                        "type": "rect",
+                                        "x": 0,
+                                        "y": 0,
+                                        "width": 42.66666793823242,
+                                        "height": 47.1843147277832
+                                      }
+                                    },
+                                    {
+                                      "type": "text",
+                                      "name": "ホーム",
+                                      "meta": {
+                                        "ux": {
+                                          "nameL10N": "SHAPE_GROUP",
+                                          "customConstraints": true,
+                                          "constraintWidth": true,
+                                          "constraintHeight": true,
+                                          "singleTextObject": true,
+                                          "rangedStyles": [
+                                            {
+                                              "length": 0,
+                                              "linkId": "",
+                                              "fontFamily": "M+ 1c",
+                                              "fontStyle": "bold",
+                                              "postscriptName": "mplus-1c-bold",
+                                              "fontSize": 10,
+                                              "charSpacing": 0,
+                                              "underline": false,
+                                              "textTransform": "none",
+                                              "textScript": "none",
+                                              "fill": {
+                                                "value": 4294967295
+                                              },
+                                              "strikethrough": false
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "id": "1146cbda-5ebd-4ef0-80a7-5816f123bbeb",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 39,
+                                        "ty": 70
+                                      },
+                                      "style": {
+                                        "fill": {
+                                          "type": "solid",
+                                          "color": {
+                                            "mode": "RGB",
+                                            "value": {
+                                              "r": 255,
+                                              "g": 255,
+                                              "b": 255
+                                            }
+                                          }
+                                        },
+                                        "font": {
+                                          "postscriptName": "mplus-1c-bold",
+                                          "family": "M+ 1c",
+                                          "style": "bold",
+                                          "size": 10
+                                        },
+                                        "textAttributes": {
+                                          "paragraphAlign": "center"
+                                        }
+                                      },
+                                      "text": {
+                                        "frame": {
+                                          "type": "positioned"
+                                        },
+                                        "paragraphs": [
+                                          {
+                                            "lines": [
+                                              [
+                                                {
+                                                  "y": 0,
+                                                  "from": 0,
+                                                  "to": 3,
+                                                  "x": -15
+                                                }
+                                              ]
+                                            ]
+                                          }
+                                        ],
+                                        "rawText": "ホーム"
+                                      }
+                                    },
+                                    {
+                                      "type": "shape",
+                                      "name": "Notification",
+                                      "id": "cc3f6e6d-5b4f-4c37-8636-a263e9496770",
+                                      "transform": {
+                                        "a": 1,
+                                        "b": 0,
+                                        "c": 0,
+                                        "d": 1,
+                                        "tx": 53,
+                                        "ty": -8
+                                      },
+                                      "visible": false,
                                       "meta": {
                                         "ux": {
                                           "hasCustomName": true,
@@ -2412,6 +3690,14 @@
                               "type": "shape",
                               "name": "Base",
                               "id": "2c7759a7-d3f3-42c5-a389-f3b4814e90af",
+                              "transform": {
+                                "a": 1,
+                                "b": 0,
+                                "c": 0,
+                                "d": 1,
+                                "tx": 0,
+                                "ty": 8
+                              },
                               "meta": {
                                 "ux": {
                                   "hasCustomName": true,
@@ -2476,7 +3762,7 @@
                                 "c": 0,
                                 "d": 1,
                                 "tx": 17.666667938232422,
-                                "ty": 12
+                                "ty": 20
                               },
                               "meta": {
                                 "ux": {
@@ -2581,7 +3867,7 @@
                                 "c": 0,
                                 "d": 1,
                                 "tx": 39,
-                                "ty": 70
+                                "ty": 78
                               },
                               "style": {
                                 "fill": {
@@ -2628,7 +3914,7 @@
                             },
                             {
                               "type": "shape",
-                              "name": "11ccc329-2065-408d-bfe5-4ce1e9547556",
+                              "name": "Notification",
                               "id": "6eb09dd6-04b2-46d7-8c1c-ad12c8baf96e",
                               "transform": {
                                 "a": 1,
@@ -2636,13 +3922,11 @@
                                 "c": 0,
                                 "d": 1,
                                 "tx": 53,
-                                "ty": -8
+                                "ty": 0
                               },
-                              "visible": false,
                               "meta": {
                                 "ux": {
                                   "hasCustomName": true,
-                                  "hasNameFromExternalSource": true,
                                   "aspectLock": {
                                     "width": 83,
                                     "height": 83
@@ -3965,26 +5249,26 @@
               "c": 0,
               "d": 1,
               "tx": -17,
-              "ty": -75
+              "ty": -83
             },
             "meta": {
               "ux": {
                 "hasCustomName": true,
                 "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                "width": 75.66666412353516,
-                "height": 174.3333282470703,
+                "width": 80.66666412353516,
+                "height": 182.3333282470703,
                 "componentType": "componentNoBounds",
-                "modTime": 1611105591774,
+                "modTime": 1611118807875,
                 "stateId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
                 "canonicalPaddingLeft": 17,
-                "canonicalPaddingRight": -39.333335876464844,
-                "canonicalPaddingTop": 75,
+                "canonicalPaddingRight": -34.333335876464844,
+                "canonicalPaddingTop": 83,
                 "canonicalPaddingBottom": -97.33334350585938,
                 "states": [
                   {
                     "type": "group",
-                    "name": "Has Notification",
-                    "id": "ec9417b4-6650-4cf1-8f42-c792544349b3",
+                    "name": "Notification ON",
+                    "id": "1e651266-99e8-494e-a1c5-8b48c18cde4b",
                     "transform": {
                       "a": 1,
                       "b": 0,
@@ -3997,19 +5281,17 @@
                       "ux": {
                         "hasCustomName": true,
                         "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
-                        "width": 80.66667175292969,
+                        "width": 80.66666412353516,
                         "height": 182.3333282470703,
                         "componentType": "componentNoBounds",
                         "syncMap": {
-                          "06f31d4d-1969-4ff6-9125-5c725af6bc16": "d5e28998-f162-4513-bbeb-e74324ca8533",
-                          "c503e76b-3295-46fd-9d03-410f0cb98933": "dcb498c9-29dd-4aac-b6d2-1e2126aed568",
-                          "c5aa74e6-87a5-47fc-ba64-feee7d234142": "5802331e-4541-4ee6-8a04-1e335156d3d7",
-                          "ff289539-7eb1-4fff-a706-a79b0bc74f87": "98a9c51a-7472-4511-b178-4e53e4234794"
+                          "06f31d4d-1969-4ff6-9125-5c725af6bc16": "96886cc2-6d00-48a2-8c64-7c12998cec7c",
+                          "c503e76b-3295-46fd-9d03-410f0cb98933": "be013688-43ef-41a4-b067-f9cc8a2fb535",
+                          "c5aa74e6-87a5-47fc-ba64-feee7d234142": "967d8b29-1ea4-4722-9d5a-c7f97e3aecf6",
+                          "ff289539-7eb1-4fff-a706-a79b0bc74f87": "d1d54f93-9a83-4b1d-8469-c08af3bafdc4"
                         },
-                        "stateId": "ec9417b4-6650-4cf1-8f42-c792544349b3",
-                        "symbolPaddingTop": 8,
-                        "symbolPaddingRight": 5,
-                        "symbolPaddingBottom": -1.52587890625e-05,
+                        "stateId": "1e651266-99e8-494e-a1c5-8b48c18cde4b",
+                        "listViewPosition": 0,
                         "assetGroupData": {
                           "groupComponents": "h"
                         }
@@ -4020,7 +5302,7 @@
                         {
                           "type": "shape",
                           "name": "Base",
-                          "id": "98a9c51a-7472-4511-b178-4e53e4234794",
+                          "id": "d1d54f93-9a83-4b1d-8469-c08af3bafdc4",
                           "transform": {
                             "a": 1,
                             "b": 0,
@@ -4035,15 +5317,6 @@
                               "aspectLock": {
                                 "width": 227,
                                 "height": 523
-                              },
-                              "symbolOverrides": {
-                                "propertyNames": [
-                                  "aspectLock",
-                                  "fill",
-                                  "height",
-                                  "transform",
-                                  "width"
-                                ]
                               },
                               "customConstraints": true,
                               "constraintLeft": true,
@@ -4094,8 +5367,8 @@
                         },
                         {
                           "type": "shape",
-                          "name": "Icon",
-                          "id": "5802331e-4541-4ee6-8a04-1e335156d3d7",
+                          "name": "Icon Home",
+                          "id": "967d8b29-1ea4-4722-9d5a-c7f97e3aecf6",
                           "transform": {
                             "a": 1,
                             "b": 0,
@@ -4107,15 +5380,10 @@
                           "meta": {
                             "ux": {
                               "hasCustomName": true,
+                              "hasNameFromExternalSource": true,
                               "aspectLock": {
                                 "width": 85,
                                 "height": 94
-                              },
-                              "symbolOverrides": {
-                                "propertyNames": [
-                                  "hasNameFromExternalSource",
-                                  "name"
-                                ]
                               },
                               "customConstraints": true,
                               "constraintLeft": true,
@@ -4166,25 +5434,10 @@
                         },
                         {
                           "type": "text",
-                          "name": "Text",
-                          "id": "d5e28998-f162-4513-bbeb-e74324ca8533",
-                          "transform": {
-                            "a": 1,
-                            "b": 0,
-                            "c": 0,
-                            "d": 1,
-                            "tx": 39.000003814697266,
-                            "ty": 78.00000762939453
-                          },
+                          "name": "ホーム",
                           "meta": {
                             "ux": {
-                              "hasCustomName": true,
-                              "symbolOverrides": {
-                                "propertyNames": [
-                                  "hasCustomName",
-                                  "name"
-                                ]
-                              },
+                              "nameL10N": "SHAPE_GROUP",
                               "customConstraints": true,
                               "constraintWidth": true,
                               "constraintHeight": true,
@@ -4208,6 +5461,15 @@
                                 }
                               ]
                             }
+                          },
+                          "id": "96886cc2-6d00-48a2-8c64-7c12998cec7c",
+                          "transform": {
+                            "a": 1,
+                            "b": 0,
+                            "c": 0,
+                            "d": 1,
+                            "tx": 39,
+                            "ty": 78
                           },
                           "style": {
                             "fill": {
@@ -4255,13 +5517,13 @@
                         {
                           "type": "shape",
                           "name": "Notification",
-                          "id": "dcb498c9-29dd-4aac-b6d2-1e2126aed568",
+                          "id": "be013688-43ef-41a4-b067-f9cc8a2fb535",
                           "transform": {
                             "a": 1,
                             "b": 0,
                             "c": 0,
                             "d": 1,
-                            "tx": 53.00000762939453,
+                            "tx": 53,
                             "ty": 0
                           },
                           "meta": {
@@ -4271,10 +5533,321 @@
                                 "width": 83,
                                 "height": 83
                               },
+                              "customConstraints": true,
+                              "constraintWidth": true,
+                              "constraintRight": true,
+                              "constraintTop": true,
+                              "constraintHeight": true
+                            }
+                          },
+                          "style": {
+                            "fill": {
+                              "type": "pattern",
+                              "pattern": {
+                                "width": 83,
+                                "height": 83,
+                                "meta": {
+                                  "ux": {
+                                    "scaleBehavior": "cover",
+                                    "uid": "10aaf4911ab43be0a2c5cad5adc02b8d",
+                                    "hrefLastModifiedDate": 1611031487,
+                                    "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=e7152675-93ef-4187-92ad-7f2628039f0a",
+                                    "linkedElementLastModified": 1611031481947
+                                  }
+                                },
+                                "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/11ccc329-2065-408d-bfe5-4ce1e9547556.png"
+                              }
+                            },
+                            "stroke": {
+                              "type": "none",
+                              "color": {
+                                "mode": "RGB",
+                                "value": {
+                                  "r": 112,
+                                  "g": 112,
+                                  "b": 112
+                                }
+                              },
+                              "width": 1,
+                              "align": "inside"
+                            }
+                          },
+                          "shape": {
+                            "type": "rect",
+                            "x": 0,
+                            "y": 0,
+                            "width": 27.66666603088379,
+                            "height": 27.66666603088379
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "group",
+                    "name": "Notification OFF",
+                    "id": "a7af07fb-5dc0-42df-95fa-30c005ec40cc",
+                    "transform": {
+                      "a": 1,
+                      "b": 0,
+                      "c": 0,
+                      "d": 1,
+                      "tx": -17,
+                      "ty": -75
+                    },
+                    "meta": {
+                      "ux": {
+                        "hasCustomName": true,
+                        "symbolId": "c804d06e-2647-4aff-9141-cf52c3d14bfb",
+                        "width": 75.66666412353516,
+                        "height": 174.3333282470703,
+                        "componentType": "componentNoBounds",
+                        "syncMap": {
+                          "06f31d4d-1969-4ff6-9125-5c725af6bc16": "d7471522-4682-491e-a7be-b5636257e24a",
+                          "c503e76b-3295-46fd-9d03-410f0cb98933": "8bcbad9f-ee41-4708-b04d-8272eb3d078a",
+                          "c5aa74e6-87a5-47fc-ba64-feee7d234142": "83f4f53f-ddcb-4103-8ce5-f72cceb9a90c",
+                          "ff289539-7eb1-4fff-a706-a79b0bc74f87": "e57cd9b3-c0b0-48d8-a62a-e40f8f126ff5"
+                        },
+                        "stateId": "a7af07fb-5dc0-42df-95fa-30c005ec40cc",
+                        "symbolPaddingTop": -8,
+                        "symbolPaddingRight": -5,
+                        "listViewPosition": 0,
+                        "assetGroupData": {
+                          "groupComponents": "h"
+                        }
+                      }
+                    },
+                    "group": {
+                      "children": [
+                        {
+                          "type": "shape",
+                          "name": "Base",
+                          "id": "e57cd9b3-c0b0-48d8-a62a-e40f8f126ff5",
+                          "meta": {
+                            "ux": {
+                              "hasCustomName": true,
+                              "aspectLock": {
+                                "width": 227,
+                                "height": 523
+                              },
+                              "customConstraints": true,
+                              "constraintLeft": true,
+                              "constraintRight": true,
+                              "constraintTop": true,
+                              "constraintBottom": true
+                            }
+                          },
+                          "style": {
+                            "fill": {
+                              "type": "pattern",
+                              "pattern": {
+                                "width": 227,
+                                "height": 526,
+                                "meta": {
+                                  "ux": {
+                                    "scaleBehavior": "cover",
+                                    "uid": "42b33eeff5d4dfa6d9264073bc127d28",
+                                    "hrefLastModifiedDate": 1611038532,
+                                    "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=c9134dbd-e9bb-43b8-95ee-7b33b36b7799",
+                                    "linkedElementLastModified": 1611038529475
+                                  }
+                                },
+                                "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/8550c945-d858-4fd6-8115-9d1bf3d58710.png"
+                              }
+                            },
+                            "stroke": {
+                              "type": "none",
+                              "color": {
+                                "mode": "RGB",
+                                "value": {
+                                  "r": 112,
+                                  "g": 112,
+                                  "b": 112
+                                }
+                              },
+                              "width": 1,
+                              "align": "inside"
+                            }
+                          },
+                          "shape": {
+                            "type": "rect",
+                            "x": 0,
+                            "y": 0,
+                            "width": 75.66666412353516,
+                            "height": 174.3333282470703
+                          }
+                        },
+                        {
+                          "type": "shape",
+                          "name": "Icon Home",
+                          "id": "83f4f53f-ddcb-4103-8ce5-f72cceb9a90c",
+                          "transform": {
+                            "a": 1,
+                            "b": 0,
+                            "c": 0,
+                            "d": 1,
+                            "tx": 17.666667938232422,
+                            "ty": 12
+                          },
+                          "meta": {
+                            "ux": {
+                              "hasCustomName": true,
+                              "hasNameFromExternalSource": true,
+                              "aspectLock": {
+                                "width": 85,
+                                "height": 94
+                              },
+                              "customConstraints": true,
+                              "constraintLeft": true,
+                              "constraintWidth": true,
+                              "constraintTop": true,
+                              "constraintHeight": true
+                            }
+                          },
+                          "style": {
+                            "fill": {
+                              "type": "pattern",
+                              "pattern": {
+                                "width": 128,
+                                "height": 128,
+                                "meta": {
+                                  "ux": {
+                                    "scaleBehavior": "cover",
+                                    "uid": "1e250df47ee9aac9f511c079874b0de6",
+                                    "hrefLastModifiedDate": 1611031073,
+                                    "linkedElementRef": "cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/d690a62d-6d26-498a-94c4-99eda2c5b3b6;node=31f39c62-2866-4216-9003-5e7fdac87938",
+                                    "linkedElementLastModified": 1611031071066
+                                  }
+                                },
+                                "href": "/Users/yossy/Library/Application Support/Adobe/Creative Cloud Libraries/LIBS/7CDB78504EE292900A490D4C_AdobeID/creative_cloud/renditions/d690a62d-6d26-498a-94c4-99eda2c5b3b6/cf3954b5-be01-44bc-856e-d775295f7269.png"
+                              }
+                            },
+                            "stroke": {
+                              "type": "none",
+                              "color": {
+                                "mode": "RGB",
+                                "value": {
+                                  "r": 112,
+                                  "g": 112,
+                                  "b": 112
+                                }
+                              },
+                              "width": 1,
+                              "align": "inside"
+                            }
+                          },
+                          "shape": {
+                            "type": "rect",
+                            "x": 0,
+                            "y": 0,
+                            "width": 42.66666793823242,
+                            "height": 47.1843147277832
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "name": "ホーム",
+                          "meta": {
+                            "ux": {
+                              "nameL10N": "SHAPE_GROUP",
+                              "customConstraints": true,
+                              "constraintWidth": true,
+                              "constraintHeight": true,
+                              "singleTextObject": true,
+                              "rangedStyles": [
+                                {
+                                  "length": 0,
+                                  "linkId": "",
+                                  "fontFamily": "M+ 1c",
+                                  "fontStyle": "bold",
+                                  "postscriptName": "mplus-1c-bold",
+                                  "fontSize": 10,
+                                  "charSpacing": 0,
+                                  "underline": false,
+                                  "textTransform": "none",
+                                  "textScript": "none",
+                                  "fill": {
+                                    "value": 4294967295
+                                  },
+                                  "strikethrough": false
+                                }
+                              ]
+                            }
+                          },
+                          "id": "d7471522-4682-491e-a7be-b5636257e24a",
+                          "transform": {
+                            "a": 1,
+                            "b": 0,
+                            "c": 0,
+                            "d": 1,
+                            "tx": 39,
+                            "ty": 70
+                          },
+                          "style": {
+                            "fill": {
+                              "type": "solid",
+                              "color": {
+                                "mode": "RGB",
+                                "value": {
+                                  "r": 255,
+                                  "g": 255,
+                                  "b": 255
+                                }
+                              }
+                            },
+                            "font": {
+                              "postscriptName": "mplus-1c-bold",
+                              "family": "M+ 1c",
+                              "style": "bold",
+                              "size": 10
+                            },
+                            "textAttributes": {
+                              "paragraphAlign": "center"
+                            }
+                          },
+                          "text": {
+                            "frame": {
+                              "type": "positioned"
+                            },
+                            "paragraphs": [
+                              {
+                                "lines": [
+                                  [
+                                    {
+                                      "y": 0,
+                                      "from": 0,
+                                      "to": 3,
+                                      "x": -15
+                                    }
+                                  ]
+                                ]
+                              }
+                            ],
+                            "rawText": "ホーム"
+                          }
+                        },
+                        {
+                          "type": "shape",
+                          "name": "Notification",
+                          "id": "8bcbad9f-ee41-4708-b04d-8272eb3d078a",
+                          "transform": {
+                            "a": 1,
+                            "b": 0,
+                            "c": 0,
+                            "d": 1,
+                            "tx": 53,
+                            "ty": -8
+                          },
+                          "visible": false,
+                          "meta": {
+                            "ux": {
+                              "hasCustomName": true,
+                              "aspectLock": {
+                                "width": 83,
+                                "height": 83
+                              },
                               "symbolOverrides": {
                                 "propertyNames": [
-                                  "hasNameFromExternalSource",
-                                  "name",
                                   "visible"
                                 ]
                               },
@@ -4341,6 +5914,14 @@
                   "type": "shape",
                   "name": "Base",
                   "id": "ff289539-7eb1-4fff-a706-a79b0bc74f87",
+                  "transform": {
+                    "a": 1,
+                    "b": 0,
+                    "c": 0,
+                    "d": 1,
+                    "tx": 0,
+                    "ty": 8
+                  },
                   "meta": {
                     "ux": {
                       "hasCustomName": true,
@@ -4405,7 +5986,7 @@
                     "c": 0,
                     "d": 1,
                     "tx": 17.666667938232422,
-                    "ty": 12
+                    "ty": 20
                   },
                   "meta": {
                     "ux": {
@@ -4499,7 +6080,7 @@
                     "c": 0,
                     "d": 1,
                     "tx": 39,
-                    "ty": 70
+                    "ty": 78
                   },
                   "style": {
                     "fill": {
@@ -4546,7 +6127,7 @@
                 },
                 {
                   "type": "shape",
-                  "name": "11ccc329-2065-408d-bfe5-4ce1e9547556",
+                  "name": "Notification",
                   "id": "c503e76b-3295-46fd-9d03-410f0cb98933",
                   "transform": {
                     "a": 1,
@@ -4554,13 +6135,11 @@
                     "c": 0,
                     "d": 1,
                     "tx": 53,
-                    "ty": -8
+                    "ty": 0
                   },
-                  "visible": false,
                   "meta": {
                     "ux": {
                       "hasCustomName": true,
-                      "hasNameFromExternalSource": true,
                       "aspectLock": {
                         "width": 83,
                         "height": 83
