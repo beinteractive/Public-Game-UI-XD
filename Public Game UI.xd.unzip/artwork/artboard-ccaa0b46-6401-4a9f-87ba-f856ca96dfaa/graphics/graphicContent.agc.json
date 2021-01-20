@@ -204,12 +204,13 @@
                                       "b": 0,
                                       "c": 0,
                                       "d": 1,
-                                      "tx": 235,
+                                      "tx": 234.8333282470703,
                                       "ty": 133.66665649414062
                                     },
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -225,7 +226,7 @@
                                           "dac5417f-719e-4f3d-9bab-96c92ca9628c": "d19d6e0d-dedc-40be-9dfb-4445abbbf1fd"
                                         },
                                         "stateId": "0b9a8d3f-08e2-4a76-a034-3b0aed01b12b",
-                                        "symbolPaddingLeft": -0.1666717529296875,
+                                        "symbolPaddingRight": -0.1666717529296875,
                                         "isCustomNameInherited": true,
                                         "assetGroupData": {
                                           "groupComponents": "b"
@@ -272,7 +273,7 @@
                                             "b": 0,
                                             "c": 0,
                                             "d": 1,
-                                            "tx": 28.666671752929688,
+                                            "tx": 28.833343505859375,
                                             "ty": 115
                                           },
                                           "meta": {
@@ -286,12 +287,12 @@
                                               "height": 17,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
-                                                "7e010e66-ca64-4e6e-b1b9-a9b374ad1e8f": "b4093967-fc78-44c8-88c3-a3ff43cced4e",
-                                                "99624f86-329f-4b6e-b8bc-ac2da0f52055": "b4204168-2e60-42aa-9d9d-d2b18b248c82",
-                                                "aa2314b6-7b56-4d6c-a7cb-07c0b1e30f0c": "1000768c-616b-4c43-b435-46cb1c1a0c12",
-                                                "b02b3a5c-13dd-4cae-a32b-1de3089589b6": "aa806af6-ac57-42d3-9842-8af56a8dfb81"
+                                                "19084ac0-0371-44ed-b8a8-f05e90a2f58a": "1b7ea682-a68c-4dd8-be80-29408230d3a2",
+                                                "d4609299-6420-49ed-a24e-13741822cd24": "099ede54-9213-400d-a3e3-233a7589fab7",
+                                                "d64c19d6-c84d-4290-b7a9-a04f9ef3610d": "27d2dd18-a04e-4ea1-8c7a-6662385c9f81",
+                                                "f19ebb21-3c54-41dd-9e3f-96424ccd7334": "52eb98b9-7499-4c7b-bb13-5795d4e2b51b"
                                               },
-                                              "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "stateId": "4c654781-b065-4ada-87c8-ddce03d1cf07",
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -302,23 +303,23 @@
                                             "children": [
                                               {
                                                 "type": "syncRef",
-                                                "syncSourceGuid": "99624f86-329f-4b6e-b8bc-ac2da0f52055",
-                                                "guid": "b4204168-2e60-42aa-9d9d-d2b18b248c82"
+                                                "syncSourceGuid": "19084ac0-0371-44ed-b8a8-f05e90a2f58a",
+                                                "guid": "1b7ea682-a68c-4dd8-be80-29408230d3a2"
                                               },
                                               {
                                                 "type": "syncRef",
-                                                "syncSourceGuid": "7e010e66-ca64-4e6e-b1b9-a9b374ad1e8f",
-                                                "guid": "b4093967-fc78-44c8-88c3-a3ff43cced4e"
+                                                "syncSourceGuid": "d64c19d6-c84d-4290-b7a9-a04f9ef3610d",
+                                                "guid": "27d2dd18-a04e-4ea1-8c7a-6662385c9f81"
                                               },
                                               {
                                                 "type": "syncRef",
-                                                "syncSourceGuid": "b02b3a5c-13dd-4cae-a32b-1de3089589b6",
-                                                "guid": "aa806af6-ac57-42d3-9842-8af56a8dfb81"
+                                                "syncSourceGuid": "d4609299-6420-49ed-a24e-13741822cd24",
+                                                "guid": "099ede54-9213-400d-a3e3-233a7589fab7"
                                               },
                                               {
                                                 "type": "syncRef",
-                                                "syncSourceGuid": "aa2314b6-7b56-4d6c-a7cb-07c0b1e30f0c",
-                                                "guid": "1000768c-616b-4c43-b435-46cb1c1a0c12"
+                                                "syncSourceGuid": "f19ebb21-3c54-41dd-9e3f-96424ccd7334",
+                                                "guid": "52eb98b9-7499-4c7b-bb13-5795d4e2b51b"
                                               }
                                             ]
                                           }
@@ -360,6 +361,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -423,7 +425,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -433,7 +435,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "1e530062-a660-44e5-8b60-8596bda6a4c5": "1850ba86-6d4c-41d9-be45-2f4e4b83b590",
@@ -442,6 +444,7 @@
                                                 "cb62f059-7450-4402-8f3e-5e1d6109a8ce": "3fa57966-168f-4b62-9f31-8f1303c11633"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -510,6 +513,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -573,7 +577,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -583,7 +587,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "08b0c287-a3f2-430d-83ea-1104043c126f": "be898a16-228e-4a41-bffc-dcbbe1832aff",
@@ -592,6 +596,7 @@
                                                 "7d6ebb38-f0fb-4cb7-8e86-1757dada1a89": "f101e9b3-e50d-4b77-b2ee-08d54c94ce33"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -660,6 +665,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -810,6 +816,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -873,7 +880,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -883,7 +890,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "0733d1b2-9807-4fc5-b848-820aee00fe98": "6aa9dc08-3c7e-42bd-8194-0c890712976c",
@@ -892,6 +899,7 @@
                                                 "d2543f31-6ed9-4801-8a15-722ea2b84579": "3196a3e5-9cd1-4194-88ff-774279f422f7"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -960,6 +968,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1023,7 +1032,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -1033,7 +1042,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "3f7fd49b-f716-407e-b3c4-3ca5ca3d5047": "ec991b95-6024-44ca-93bd-b6e065708c0f",
@@ -1042,6 +1051,7 @@
                                                 "fea60a80-c736-41c6-a52f-238633d0a549": "e2b9db88-bda4-4066-ac9c-80c8989b2ab6"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -1110,6 +1120,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1173,7 +1184,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -1183,7 +1194,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "69885fd2-52bc-4016-9940-3c13988bd155": "9ef274cb-7052-4ba9-8340-e1368b3927a6",
@@ -1192,6 +1203,7 @@
                                                 "de687342-3c9e-44be-afb4-3aa2b70e8f97": "c04aba44-90e2-4287-876a-15c6a825521b"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -1260,6 +1272,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1410,6 +1423,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1560,6 +1574,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1623,7 +1638,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -1633,7 +1648,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "4e6fa55a-71bf-42fb-b9ef-40a06eed8044": "8d524e7f-64c3-48cb-b434-d33554d8386d",
@@ -1642,6 +1657,7 @@
                                                 "f1c48a25-ad2e-4a46-bbdc-c7cfabdecab6": "948e1bb1-dc08-4203-8d88-f964a4e251d8"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -1710,6 +1726,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1773,7 +1790,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -1783,7 +1800,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "9a72768a-b5c5-4c2d-923d-834e89200d2b": "361a278c-0e32-4dec-9710-f7325d94db07",
@@ -1792,6 +1809,7 @@
                                                 "cf317c35-218e-4b55-822b-3047a99f766f": "2cac7155-be44-4392-807b-b33784f3a118"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -1860,6 +1878,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -2010,6 +2029,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -2160,6 +2180,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -2310,6 +2331,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -2460,6 +2482,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,

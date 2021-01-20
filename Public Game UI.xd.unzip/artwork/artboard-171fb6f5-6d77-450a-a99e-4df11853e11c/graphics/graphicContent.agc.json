@@ -278,12 +278,13 @@
                                       "b": 0,
                                       "c": 0,
                                       "d": 1,
-                                      "tx": 235,
+                                      "tx": 234.8333282470703,
                                       "ty": 133.66665649414062
                                     },
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -299,7 +300,7 @@
                                           "dac5417f-719e-4f3d-9bab-96c92ca9628c": "0ede98eb-0051-49fc-86de-f3010c930212"
                                         },
                                         "stateId": "0b9a8d3f-08e2-4a76-a034-3b0aed01b12b",
-                                        "symbolPaddingLeft": -0.1666717529296875,
+                                        "symbolPaddingRight": -0.1666717529296875,
                                         "isCustomNameInherited": true,
                                         "assetGroupData": {
                                           "groupComponents": "b"
@@ -346,7 +347,7 @@
                                             "b": 0,
                                             "c": 0,
                                             "d": 1,
-                                            "tx": 28.666671752929688,
+                                            "tx": 28.833343505859375,
                                             "ty": 115
                                           },
                                           "meta": {
@@ -360,12 +361,12 @@
                                               "height": 17,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
-                                                "7e010e66-ca64-4e6e-b1b9-a9b374ad1e8f": "dd66fa6d-e25b-46a6-805b-8228cae27bad",
-                                                "99624f86-329f-4b6e-b8bc-ac2da0f52055": "3791a954-8f02-44eb-99c6-504ac1e55051",
-                                                "aa2314b6-7b56-4d6c-a7cb-07c0b1e30f0c": "9e6ec811-3d2a-40dd-8d0a-d66de8056aa8",
-                                                "b02b3a5c-13dd-4cae-a32b-1de3089589b6": "067d2e4e-2dd1-472b-aadf-a54a9d01a59f"
+                                                "19084ac0-0371-44ed-b8a8-f05e90a2f58a": "92cb2621-9850-49c0-ad82-f1952cb2451d",
+                                                "d4609299-6420-49ed-a24e-13741822cd24": "fc9ce0a6-8956-478f-80e8-3394b788f5e5",
+                                                "d64c19d6-c84d-4290-b7a9-a04f9ef3610d": "1cc4e632-dcad-414b-a6e4-c0b42e9a68e3",
+                                                "f19ebb21-3c54-41dd-9e3f-96424ccd7334": "eb413eb5-e30b-442a-bcee-7806867432f1"
                                               },
-                                              "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "stateId": "4c654781-b065-4ada-87c8-ddce03d1cf07",
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -376,23 +377,23 @@
                                             "children": [
                                               {
                                                 "type": "syncRef",
-                                                "syncSourceGuid": "99624f86-329f-4b6e-b8bc-ac2da0f52055",
-                                                "guid": "3791a954-8f02-44eb-99c6-504ac1e55051"
+                                                "syncSourceGuid": "19084ac0-0371-44ed-b8a8-f05e90a2f58a",
+                                                "guid": "92cb2621-9850-49c0-ad82-f1952cb2451d"
                                               },
                                               {
                                                 "type": "syncRef",
-                                                "syncSourceGuid": "7e010e66-ca64-4e6e-b1b9-a9b374ad1e8f",
-                                                "guid": "dd66fa6d-e25b-46a6-805b-8228cae27bad"
+                                                "syncSourceGuid": "d64c19d6-c84d-4290-b7a9-a04f9ef3610d",
+                                                "guid": "1cc4e632-dcad-414b-a6e4-c0b42e9a68e3"
                                               },
                                               {
                                                 "type": "syncRef",
-                                                "syncSourceGuid": "b02b3a5c-13dd-4cae-a32b-1de3089589b6",
-                                                "guid": "067d2e4e-2dd1-472b-aadf-a54a9d01a59f"
+                                                "syncSourceGuid": "d4609299-6420-49ed-a24e-13741822cd24",
+                                                "guid": "fc9ce0a6-8956-478f-80e8-3394b788f5e5"
                                               },
                                               {
                                                 "type": "syncRef",
-                                                "syncSourceGuid": "aa2314b6-7b56-4d6c-a7cb-07c0b1e30f0c",
-                                                "guid": "9e6ec811-3d2a-40dd-8d0a-d66de8056aa8"
+                                                "syncSourceGuid": "f19ebb21-3c54-41dd-9e3f-96424ccd7334",
+                                                "guid": "eb413eb5-e30b-442a-bcee-7806867432f1"
                                               }
                                             ]
                                           }
@@ -434,6 +435,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -497,7 +499,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -507,7 +509,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "1e530062-a660-44e5-8b60-8596bda6a4c5": "b4712c90-0132-4195-b1f1-e2ab2f810c72",
@@ -516,6 +518,7 @@
                                                 "cb62f059-7450-4402-8f3e-5e1d6109a8ce": "7b1ac43a-e8ee-4ca2-a384-f5bb5996386d"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -584,6 +587,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -647,7 +651,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -657,7 +661,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "08b0c287-a3f2-430d-83ea-1104043c126f": "f7b4c1d3-df11-4ca2-a4df-c18063dbeaf3",
@@ -666,6 +670,7 @@
                                                 "7d6ebb38-f0fb-4cb7-8e86-1757dada1a89": "00d83587-a131-489c-b6bc-23e5dbf9d431"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -734,6 +739,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -884,6 +890,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -947,7 +954,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -957,7 +964,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "0733d1b2-9807-4fc5-b848-820aee00fe98": "e6bb1e07-5c2d-4b48-9a84-3521be6d2540",
@@ -966,6 +973,7 @@
                                                 "d2543f31-6ed9-4801-8a15-722ea2b84579": "ff62d3a8-dd00-45d9-9444-05bad858be3d"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -1034,6 +1042,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1097,7 +1106,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -1107,7 +1116,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "3f7fd49b-f716-407e-b3c4-3ca5ca3d5047": "e91f5edd-59b9-4cb7-9e6c-a90c1183192e",
@@ -1116,6 +1125,7 @@
                                                 "fea60a80-c736-41c6-a52f-238633d0a549": "6db742f7-7961-402d-90a9-c79787483566"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -1184,6 +1194,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1247,7 +1258,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -1257,7 +1268,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "69885fd2-52bc-4016-9940-3c13988bd155": "c61e2853-4083-4a00-aced-ff28a522eaab",
@@ -1266,6 +1277,7 @@
                                                 "de687342-3c9e-44be-afb4-3aa2b70e8f97": "5b2b449c-d0bc-4e1b-a65e-1c23f552baf0"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -1334,6 +1346,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1484,6 +1497,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1634,6 +1648,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1697,7 +1712,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -1707,7 +1722,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "4e6fa55a-71bf-42fb-b9ef-40a06eed8044": "56d69c07-b45d-4726-b6e3-5b19641c015e",
@@ -1716,6 +1731,7 @@
                                                 "f1c48a25-ad2e-4a46-bbdc-c7cfabdecab6": "d635cecc-f4b1-4046-a842-27ae5d9e76af"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -1784,6 +1800,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -1847,7 +1864,7 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
@@ -1857,7 +1874,7 @@
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "9a72768a-b5c5-4c2d-923d-834e89200d2b": "697a2743-05d5-4f6d-911d-80c1484c985a",
@@ -1866,6 +1883,7 @@
                                                 "cf317c35-218e-4b55-822b-3047a99f766f": "48fde3ac-990d-42b8-bcb3-ba1466ef9d8b"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -1934,6 +1952,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -2084,6 +2103,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -2147,17 +2167,23 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
                                               "hasCustomName": true,
+                                              "symbolOverrides": {
+                                                "propertyNames": [
+                                                  "height",
+                                                  "transform"
+                                                ]
+                                              },
                                               "customConstraints": true,
                                               "constraintWidth": true,
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "0c738ab6-171f-404e-b0e1-105eb7eb39ce": "1784048d-74a1-44c1-805d-9dbb37957e55",
@@ -2166,6 +2192,7 @@
                                                 "faee8196-5d33-4be9-83cb-d2bc2606a051": "7b3b64ea-b3fd-48e7-b863-3907581ca3b3"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -2177,22 +2204,130 @@
                                               {
                                                 "type": "syncRef",
                                                 "syncSourceGuid": "0c738ab6-171f-404e-b0e1-105eb7eb39ce",
-                                                "guid": "1784048d-74a1-44c1-805d-9dbb37957e55"
+                                                "guid": "1784048d-74a1-44c1-805d-9dbb37957e55",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 0,
+                                                  "ty": 1
+                                                }
                                               },
                                               {
                                                 "type": "syncRef",
                                                 "syncSourceGuid": "23608d13-436f-4ce6-9d98-5aaf1267c996",
-                                                "guid": "ed5eaa7e-3102-443f-83e7-72454c67a4a9"
+                                                "guid": "ed5eaa7e-3102-443f-83e7-72454c67a4a9",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 36.66667175292969,
+                                                  "ty": 14
+                                                }
                                               },
                                               {
-                                                "type": "syncRef",
-                                                "syncSourceGuid": "faee8196-5d33-4be9-83cb-d2bc2606a051",
-                                                "guid": "7b3b64ea-b3fd-48e7-b863-3907581ca3b3"
+                                                "type": "text",
+                                                "name": "Value",
+                                                "id": "7b3b64ea-b3fd-48e7-b863-3907581ca3b3",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 43,
+                                                  "ty": 14
+                                                },
+                                                "meta": {
+                                                  "ux": {
+                                                    "hasCustomName": true,
+                                                    "symbolOverrides": {
+                                                      "propertyNames": [
+                                                        "text"
+                                                      ]
+                                                    },
+                                                    "customConstraints": true,
+                                                    "constraintLeft": true,
+                                                    "constraintWidth": true,
+                                                    "constraintHeight": true,
+                                                    "constraintBottom": true,
+                                                    "singleTextObject": true,
+                                                    "rangedStyles": [
+                                                      {
+                                                        "length": 0,
+                                                        "linkId": "",
+                                                        "fontFamily": "M+ 1c",
+                                                        "fontStyle": "heavy",
+                                                        "postscriptName": "mplus-1c-heavy",
+                                                        "fontSize": 13,
+                                                        "charSpacing": 0,
+                                                        "underline": false,
+                                                        "textTransform": "none",
+                                                        "textScript": "none",
+                                                        "fill": {
+                                                          "value": 4294967295
+                                                        },
+                                                        "strikethrough": false
+                                                      }
+                                                    ]
+                                                  }
+                                                },
+                                                "style": {
+                                                  "fill": {
+                                                    "type": "solid",
+                                                    "color": {
+                                                      "mode": "RGB",
+                                                      "value": {
+                                                        "r": 255,
+                                                        "g": 255,
+                                                        "b": 255
+                                                      }
+                                                    }
+                                                  },
+                                                  "font": {
+                                                    "postscriptName": "mplus-1c-heavy",
+                                                    "family": "M+ 1c",
+                                                    "style": "heavy",
+                                                    "size": 13
+                                                  },
+                                                  "textAttributes": {
+                                                    "paragraphAlign": "center"
+                                                  }
+                                                },
+                                                "text": {
+                                                  "frame": {
+                                                    "type": "positioned"
+                                                  },
+                                                  "paragraphs": [
+                                                    {
+                                                      "lines": [
+                                                        [
+                                                          {
+                                                            "y": 0,
+                                                            "from": 0,
+                                                            "to": 4,
+                                                            "x": -16.899999618530273
+                                                          }
+                                                        ]
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "rawText": "3000"
+                                                }
                                               },
                                               {
                                                 "type": "syncRef",
                                                 "syncSourceGuid": "785835ab-578a-445b-babf-a53cfb11d7a7",
-                                                "guid": "a7c5d24b-46db-4682-bea6-6b29dea56242"
+                                                "guid": "a7c5d24b-46db-4682-bea6-6b29dea56242",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 1,
+                                                  "ty": 1
+                                                }
                                               }
                                             ]
                                           }
@@ -2234,6 +2369,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -2297,17 +2433,23 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
                                               "hasCustomName": true,
+                                              "symbolOverrides": {
+                                                "propertyNames": [
+                                                  "height",
+                                                  "transform"
+                                                ]
+                                              },
                                               "customConstraints": true,
                                               "constraintWidth": true,
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "63e38b36-2f1d-481a-83f4-b55545e5bcfe": "8ef8ee88-67ad-4873-a8da-4cd3483ceeef",
@@ -2316,6 +2458,7 @@
                                                 "91c86ebb-3052-4443-a281-14161d92af30": "a410a81d-983a-4258-95db-5e2e04c84fdb"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -2327,22 +2470,130 @@
                                               {
                                                 "type": "syncRef",
                                                 "syncSourceGuid": "7c8e60df-c298-450e-ba50-1aa55371a8f8",
-                                                "guid": "ab6fca36-53b8-4591-be5a-84dba03c38f7"
+                                                "guid": "ab6fca36-53b8-4591-be5a-84dba03c38f7",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 0,
+                                                  "ty": 1
+                                                }
                                               },
                                               {
                                                 "type": "syncRef",
                                                 "syncSourceGuid": "63e38b36-2f1d-481a-83f4-b55545e5bcfe",
-                                                "guid": "8ef8ee88-67ad-4873-a8da-4cd3483ceeef"
+                                                "guid": "8ef8ee88-67ad-4873-a8da-4cd3483ceeef",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 36.66667175292969,
+                                                  "ty": 14
+                                                }
                                               },
                                               {
-                                                "type": "syncRef",
-                                                "syncSourceGuid": "7691b896-bea3-46e6-af3a-026d56cefb9e",
-                                                "guid": "a9b5881a-14e5-493b-a594-f42d50175591"
+                                                "type": "text",
+                                                "name": "Value",
+                                                "id": "a9b5881a-14e5-493b-a594-f42d50175591",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 43,
+                                                  "ty": 14
+                                                },
+                                                "meta": {
+                                                  "ux": {
+                                                    "hasCustomName": true,
+                                                    "symbolOverrides": {
+                                                      "propertyNames": [
+                                                        "text"
+                                                      ]
+                                                    },
+                                                    "customConstraints": true,
+                                                    "constraintLeft": true,
+                                                    "constraintWidth": true,
+                                                    "constraintHeight": true,
+                                                    "constraintBottom": true,
+                                                    "singleTextObject": true,
+                                                    "rangedStyles": [
+                                                      {
+                                                        "length": 0,
+                                                        "linkId": "",
+                                                        "fontFamily": "M+ 1c",
+                                                        "fontStyle": "heavy",
+                                                        "postscriptName": "mplus-1c-heavy",
+                                                        "fontSize": 13,
+                                                        "charSpacing": 0,
+                                                        "underline": false,
+                                                        "textTransform": "none",
+                                                        "textScript": "none",
+                                                        "fill": {
+                                                          "value": 4294967295
+                                                        },
+                                                        "strikethrough": false
+                                                      }
+                                                    ]
+                                                  }
+                                                },
+                                                "style": {
+                                                  "fill": {
+                                                    "type": "solid",
+                                                    "color": {
+                                                      "mode": "RGB",
+                                                      "value": {
+                                                        "r": 255,
+                                                        "g": 255,
+                                                        "b": 255
+                                                      }
+                                                    }
+                                                  },
+                                                  "font": {
+                                                    "postscriptName": "mplus-1c-heavy",
+                                                    "family": "M+ 1c",
+                                                    "style": "heavy",
+                                                    "size": 13
+                                                  },
+                                                  "textAttributes": {
+                                                    "paragraphAlign": "center"
+                                                  }
+                                                },
+                                                "text": {
+                                                  "frame": {
+                                                    "type": "positioned"
+                                                  },
+                                                  "paragraphs": [
+                                                    {
+                                                      "lines": [
+                                                        [
+                                                          {
+                                                            "y": 0,
+                                                            "from": 0,
+                                                            "to": 4,
+                                                            "x": -16.899999618530273
+                                                          }
+                                                        ]
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "rawText": "3500"
+                                                }
                                               },
                                               {
                                                 "type": "syncRef",
                                                 "syncSourceGuid": "91c86ebb-3052-4443-a281-14161d92af30",
-                                                "guid": "a410a81d-983a-4258-95db-5e2e04c84fdb"
+                                                "guid": "a410a81d-983a-4258-95db-5e2e04c84fdb",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 1,
+                                                  "ty": 1
+                                                }
                                               }
                                             ]
                                           }
@@ -2384,6 +2635,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
@@ -2447,17 +2699,23 @@
                                             "c": 0,
                                             "d": 1,
                                             "tx": 28.666671752929688,
-                                            "ty": 115
+                                            "ty": 114
                                           },
                                           "meta": {
                                             "ux": {
                                               "hasCustomName": true,
+                                              "symbolOverrides": {
+                                                "propertyNames": [
+                                                  "height",
+                                                  "transform"
+                                                ]
+                                              },
                                               "customConstraints": true,
                                               "constraintWidth": true,
                                               "constraintHeight": true,
                                               "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
                                               "width": 73.33333587646484,
-                                              "height": 17,
+                                              "height": 18,
                                               "componentType": "componentNoBounds",
                                               "syncMap": {
                                                 "19f321d8-295e-45e9-b1ad-e25c88fd1513": "5c4cd28e-35b3-4bb0-9337-503346f011bc",
@@ -2466,6 +2724,7 @@
                                                 "c89dd9e1-477b-4b53-8ef5-2011aeb31faf": "7a40c485-f2aa-4005-9f39-893035600698"
                                               },
                                               "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                                              "symbolPaddingTop": 1,
                                               "isCustomNameInherited": true,
                                               "assetGroupData": {
                                                 "groupComponents": "an"
@@ -2477,22 +2736,130 @@
                                               {
                                                 "type": "syncRef",
                                                 "syncSourceGuid": "19f321d8-295e-45e9-b1ad-e25c88fd1513",
-                                                "guid": "5c4cd28e-35b3-4bb0-9337-503346f011bc"
+                                                "guid": "5c4cd28e-35b3-4bb0-9337-503346f011bc",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 0,
+                                                  "ty": 1
+                                                }
                                               },
                                               {
                                                 "type": "syncRef",
                                                 "syncSourceGuid": "8f891ba4-76c6-46a9-8e93-f09ab5e3bb80",
-                                                "guid": "112e43d3-270c-440e-9c07-257f4a8ec7fa"
+                                                "guid": "112e43d3-270c-440e-9c07-257f4a8ec7fa",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 36.66667175292969,
+                                                  "ty": 14
+                                                }
                                               },
                                               {
-                                                "type": "syncRef",
-                                                "syncSourceGuid": "c89dd9e1-477b-4b53-8ef5-2011aeb31faf",
-                                                "guid": "7a40c485-f2aa-4005-9f39-893035600698"
+                                                "type": "text",
+                                                "name": "Value",
+                                                "id": "7a40c485-f2aa-4005-9f39-893035600698",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 43,
+                                                  "ty": 14
+                                                },
+                                                "meta": {
+                                                  "ux": {
+                                                    "hasCustomName": true,
+                                                    "symbolOverrides": {
+                                                      "propertyNames": [
+                                                        "text"
+                                                      ]
+                                                    },
+                                                    "customConstraints": true,
+                                                    "constraintLeft": true,
+                                                    "constraintWidth": true,
+                                                    "constraintHeight": true,
+                                                    "constraintBottom": true,
+                                                    "singleTextObject": true,
+                                                    "rangedStyles": [
+                                                      {
+                                                        "length": 0,
+                                                        "linkId": "",
+                                                        "fontFamily": "M+ 1c",
+                                                        "fontStyle": "heavy",
+                                                        "postscriptName": "mplus-1c-heavy",
+                                                        "fontSize": 13,
+                                                        "charSpacing": 0,
+                                                        "underline": false,
+                                                        "textTransform": "none",
+                                                        "textScript": "none",
+                                                        "fill": {
+                                                          "value": 4294967295
+                                                        },
+                                                        "strikethrough": false
+                                                      }
+                                                    ]
+                                                  }
+                                                },
+                                                "style": {
+                                                  "fill": {
+                                                    "type": "solid",
+                                                    "color": {
+                                                      "mode": "RGB",
+                                                      "value": {
+                                                        "r": 255,
+                                                        "g": 255,
+                                                        "b": 255
+                                                      }
+                                                    }
+                                                  },
+                                                  "font": {
+                                                    "postscriptName": "mplus-1c-heavy",
+                                                    "family": "M+ 1c",
+                                                    "style": "heavy",
+                                                    "size": 13
+                                                  },
+                                                  "textAttributes": {
+                                                    "paragraphAlign": "center"
+                                                  }
+                                                },
+                                                "text": {
+                                                  "frame": {
+                                                    "type": "positioned"
+                                                  },
+                                                  "paragraphs": [
+                                                    {
+                                                      "lines": [
+                                                        [
+                                                          {
+                                                            "y": 0,
+                                                            "from": 0,
+                                                            "to": 4,
+                                                            "x": -16.899999618530273
+                                                          }
+                                                        ]
+                                                      ]
+                                                    }
+                                                  ],
+                                                  "rawText": "5000"
+                                                }
                                               },
                                               {
                                                 "type": "syncRef",
                                                 "syncSourceGuid": "a603acb8-0d51-4186-ab1d-9fd4e85876f3",
-                                                "guid": "01b6ae55-74d2-498b-98e9-e561d8b1b975"
+                                                "guid": "01b6ae55-74d2-498b-98e9-e561d8b1b975",
+                                                "transform": {
+                                                  "a": 1,
+                                                  "b": 0,
+                                                  "c": 0,
+                                                  "d": 1,
+                                                  "tx": 1,
+                                                  "ty": 1
+                                                }
                                               }
                                             ]
                                           }
@@ -2534,6 +2901,7 @@
                                     "meta": {
                                       "ux": {
                                         "hasCustomName": true,
+                                        "customConstraints": true,
                                         "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
                                         "width": 130.6666717529297,
                                         "height": 188.6666717529297,
