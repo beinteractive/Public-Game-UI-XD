@@ -306,6 +306,54 @@
           "id": "b4629ac5-99cc-498d-a54b-dfee28924d10",
           "name": "",
           "path": "42b33eeff5d4dfa6d9264073bc127d28"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "cc285e07-e276-4d9f-bafd-0013f619d767",
+          "state": "unmodified",
+          "name": "",
+          "path": "a05753e9562a6e23aea0935d18dac917"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "c0961aff-1fea-4154-b41a-82e1b907a0ba",
+          "state": "unmodified",
+          "name": "",
+          "path": "15849e3af08399fd35282decd77d5625"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "9567e6cb-351e-4593-801f-2457cae6fe1a",
+          "state": "unmodified",
+          "name": "",
+          "path": "600e39be44db2c6a30abb83d6e999126"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "cc6a3420-2531-4bba-a20a-34b8f7af3e71",
+          "state": "unmodified",
+          "name": "",
+          "path": "3cb8b179aa6cf8d0f2a77c75d8874d08"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "12bd09a2-41cf-4679-8d7d-696789209297",
+          "state": "unmodified",
+          "name": "",
+          "path": "34393b9f13abbecf1fc39ca650452b89"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "0d603b6b-d756-4ca2-bf83-9b2c42d1c8fc",
+          "state": "unmodified",
+          "name": "",
+          "path": "b1369f242009c6cbf64890c8964d1c74"
         }
       ],
       "children": [
@@ -349,7 +397,7 @@
   "type": "application/vnd.adobe.sparkler.project+dcx",
   "uxdesign#requirePassword": "false",
   "uxdesign#resourceID": "5e2dadf9-6e22-4b22-904b-78dadbcb7343",
-  "uxdesign#serializationId": "ac2a5156-bff2-4156-bb09-6334541d2a6e",
+  "uxdesign#serializationId": "3e1e20d5-a0f3-43c5-afa3-882ff9f8faea",
   "uxdesign#compositeID": "6af26b62-f4d9-480a-808b-8b961db57067",
   "id": "46d37788-95fd-4354-91f9-891bec722dab",
   "uxdesign#version": "2.18"

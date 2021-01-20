@@ -10,8 +10,8 @@
         "b": 0,
         "c": 0,
         "d": 1,
-        "tx": 1293,
-        "ty": 2
+        "tx": -150.6666259765625,
+        "ty": 0
       },
       "meta": {
         "ux": {
@@ -56,6 +56,603 @@
             "type": "syncRef",
             "syncSourceGuid": "c503e76b-3295-46fd-9d03-410f0cb98933",
             "guid": "11a6c829-b59c-4d25-8241-0353fb2e79f0"
+          }
+        ]
+      }
+    },
+    {
+      "type": "group",
+      "name": "Price",
+      "id": "2a3d8add-3c36-4825-b881-7200aa288c47",
+      "transform": {
+        "a": 1,
+        "b": 0,
+        "c": 0,
+        "d": 1,
+        "tx": -283,
+        "ty": 214.3333740234375
+      },
+      "meta": {
+        "ux": {
+          "hasCustomName": true,
+          "customConstraints": true,
+          "constraintWidth": true,
+          "constraintHeight": true,
+          "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
+          "width": 73.33333587646484,
+          "height": 17,
+          "componentType": "componentNoBounds",
+          "isMaster": true,
+          "syncMap": {
+            "1695e35e-fdb1-4bd3-96f9-89726ffb1486": "794fcce1-5daf-4733-8929-6a4e5c92369f",
+            "20f9e1a3-e030-4159-ad43-cf1a7a5edad1": "b0164c57-b392-4297-9da7-168397a63e7e",
+            "a4b1a299-5dc2-41ed-b093-a823a1a4b9c8": "30acf3f7-be36-44bd-a5a4-bdfbd88c0193",
+            "d31c8713-ebf6-4e12-b47b-ec1d2662972d": "d6fbd87d-6fd9-41d1-be2e-d1f28ede5603"
+          },
+          "stateId": "15386905-39e9-4272-9780-2b42c69fd6da",
+          "isCustomNameInherited": true,
+          "assetGroupData": {
+            "groupComponents": "an"
+          }
+        }
+      },
+      "group": {
+        "children": [
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "20f9e1a3-e030-4159-ad43-cf1a7a5edad1",
+            "guid": "b0164c57-b392-4297-9da7-168397a63e7e"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "a4b1a299-5dc2-41ed-b093-a823a1a4b9c8",
+            "guid": "30acf3f7-be36-44bd-a5a4-bdfbd88c0193"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "d31c8713-ebf6-4e12-b47b-ec1d2662972d",
+            "guid": "d6fbd87d-6fd9-41d1-be2e-d1f28ede5603"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "1695e35e-fdb1-4bd3-96f9-89726ffb1486",
+            "guid": "794fcce1-5daf-4733-8929-6a4e5c92369f"
+          }
+        ]
+      }
+    },
+    {
+      "type": "group",
+      "name": "Price",
+      "id": "587f059d-ab05-407e-851e-a199e5646566",
+      "transform": {
+        "a": 1,
+        "b": 0,
+        "c": 0,
+        "d": 1,
+        "tx": -283,
+        "ty": 239.3333740234375
+      },
+      "meta": {
+        "ux": {
+          "hasCustomName": true,
+          "customConstraints": true,
+          "constraintWidth": true,
+          "constraintHeight": true,
+          "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
+          "width": 73.33333587646484,
+          "height": 17,
+          "componentType": "componentNoBounds",
+          "syncMap": {
+            "0d004767-450b-4186-9ad6-38d7ee979206": "1556bfc5-f324-460e-99e5-ef004fad0e57",
+            "1950241c-10e3-4821-b5a7-668876f49294": "15bf99c4-049c-4054-a3b2-333c72c8bb5b",
+            "712fee22-1a62-4050-909f-dcc3c79a3164": "8b2ed8e1-8f11-4010-82ed-0485f14db83c",
+            "af4ba448-754d-4679-8659-4b4589da6f4d": "c910853a-2dd8-4d82-bad2-96ea8c2a03a7"
+          },
+          "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+          "isCustomNameInherited": true,
+          "assetGroupData": {
+            "groupComponents": "an"
+          }
+        }
+      },
+      "group": {
+        "children": [
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "af4ba448-754d-4679-8659-4b4589da6f4d",
+            "guid": "c910853a-2dd8-4d82-bad2-96ea8c2a03a7"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "0d004767-450b-4186-9ad6-38d7ee979206",
+            "guid": "1556bfc5-f324-460e-99e5-ef004fad0e57"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "712fee22-1a62-4050-909f-dcc3c79a3164",
+            "guid": "8b2ed8e1-8f11-4010-82ed-0485f14db83c"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "1950241c-10e3-4821-b5a7-668876f49294",
+            "guid": "15bf99c4-049c-4054-a3b2-333c72c8bb5b"
+          }
+        ]
+      }
+    },
+    {
+      "type": "group",
+      "name": "Price",
+      "id": "2487924f-4467-46b8-ad2e-84f4ac9aadc0",
+      "transform": {
+        "a": 1,
+        "b": 0,
+        "c": 0,
+        "d": 1,
+        "tx": -283,
+        "ty": 264.3333740234375
+      },
+      "meta": {
+        "ux": {
+          "hasCustomName": true,
+          "customConstraints": true,
+          "constraintWidth": true,
+          "constraintHeight": true,
+          "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
+          "width": 73.33333587646484,
+          "height": 17,
+          "componentType": "componentNoBounds",
+          "syncMap": {
+            "268c5064-e3f7-4085-a4ec-96a9b02ae1a3": "276b2c62-ba1b-4e1c-8fda-e02e95a9aad1",
+            "3c0f569b-ec08-4ee9-a8ee-cb98aa63b830": "745f52e4-d036-4fe5-8fd3-35ff4e168407",
+            "c1a2f7d4-38d0-4b61-b644-01ae0c0671bd": "66fc65ed-c429-4d5a-81eb-badbea265462",
+            "d9c8269c-8ae4-4f32-8dbd-532d694646fa": "b6f68b93-0381-46a3-8324-27ae1e02d610"
+          },
+          "stateId": "4c654781-b065-4ada-87c8-ddce03d1cf07",
+          "isCustomNameInherited": true,
+          "assetGroupData": {
+            "groupComponents": "an"
+          }
+        }
+      },
+      "group": {
+        "children": [
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "c1a2f7d4-38d0-4b61-b644-01ae0c0671bd",
+            "guid": "66fc65ed-c429-4d5a-81eb-badbea265462"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "3c0f569b-ec08-4ee9-a8ee-cb98aa63b830",
+            "guid": "745f52e4-d036-4fe5-8fd3-35ff4e168407"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "268c5064-e3f7-4085-a4ec-96a9b02ae1a3",
+            "guid": "276b2c62-ba1b-4e1c-8fda-e02e95a9aad1"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "d9c8269c-8ae4-4f32-8dbd-532d694646fa",
+            "guid": "b6f68b93-0381-46a3-8324-27ae1e02d610"
+          }
+        ]
+      }
+    },
+    {
+      "type": "group",
+      "name": "Item",
+      "id": "a9129451-5ea5-4361-b54d-c699bb21934b",
+      "transform": {
+        "a": 1,
+        "b": 0,
+        "c": 0,
+        "d": 1,
+        "tx": -200.83334350585938,
+        "ty": 200
+      },
+      "meta": {
+        "ux": {
+          "hasCustomName": true,
+          "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
+          "width": 130.83334350585938,
+          "height": 188.6666717529297,
+          "componentType": "componentNoBounds",
+          "isMaster": true,
+          "syncMap": {
+            "1f55cc0a-8065-4a50-b3ff-02181fbf77cd": "8574f838-9f7a-432e-b08b-98c9644f83a2",
+            "22d6247c-639b-4476-95b3-9ec9afd06b45": "3e84aa4c-0668-4233-be0e-335dca8cb249",
+            "48fe2be5-da86-4a37-8392-2fbab8d96868": "409ea400-4a20-43b2-9e51-8487b7dc81d2",
+            "648b73ff-ac72-4bfc-b0af-6fb8b79d4d9a": "07df984e-e44f-467e-bd34-9b253524e60f",
+            "69ec8b79-cc74-49e8-8741-2340af0c8a72": "2bb25959-51f8-4ba6-b5a7-2161ec3c3b77",
+            "8f7cdb8f-aff8-4729-a805-7e418bd1e90a": "7caa9f3c-0dc2-46d3-a70e-a68dd743c9b9",
+            "cac9b731-6d6a-4c00-81f6-179966cf207f": "b4537468-c538-4d64-a313-ba8e1ff11fa8",
+            "de3894a2-6d67-4dfb-ab60-73e3ba444b6d": "1aacb22f-c6ec-4dc8-8a49-b8af0935dd40"
+          },
+          "stateId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
+          "assetGroupData": {
+            "groupComponents": "b"
+          }
+        }
+      },
+      "group": {
+        "children": [
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "69ec8b79-cc74-49e8-8741-2340af0c8a72",
+            "guid": "2bb25959-51f8-4ba6-b5a7-2161ec3c3b77"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "1f55cc0a-8065-4a50-b3ff-02181fbf77cd",
+            "guid": "8574f838-9f7a-432e-b08b-98c9644f83a2"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "8f7cdb8f-aff8-4729-a805-7e418bd1e90a",
+            "guid": "7caa9f3c-0dc2-46d3-a70e-a68dd743c9b9",
+            "group": {
+              "children": [
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "cac9b731-6d6a-4c00-81f6-179966cf207f",
+                  "guid": "b4537468-c538-4d64-a313-ba8e1ff11fa8"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "de3894a2-6d67-4dfb-ab60-73e3ba444b6d",
+                  "guid": "1aacb22f-c6ec-4dc8-8a49-b8af0935dd40"
+                }
+              ]
+            }
+          },
+          {
+            "type": "group",
+            "name": "Price",
+            "id": "07df984e-e44f-467e-bd34-9b253524e60f",
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 28.833343505859375,
+              "ty": 115
+            },
+            "meta": {
+              "ux": {
+                "hasCustomName": true,
+                "customConstraints": true,
+                "constraintWidth": true,
+                "constraintHeight": true,
+                "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
+                "width": 73.33333587646484,
+                "height": 17,
+                "componentType": "componentNoBounds",
+                "syncMap": {
+                  "06076fe8-7af4-4fd5-be01-bfcadd068f17": "c166bb95-4ec7-4845-a9e4-fb797b7446c6",
+                  "62eec0a8-ae89-4046-856b-a889ce0690ec": "cb1a14f4-2ea3-406d-8102-55a992acb72d",
+                  "89bfb2bb-851c-4e4d-a280-048deb0403b2": "4ae89c07-a547-426d-9f41-ed4dd711b801",
+                  "9c807d4c-3b7c-457d-93f5-3500a426c0b7": "51e8a05d-accb-4745-820b-816328cc277b"
+                },
+                "stateId": "15386905-39e9-4272-9780-2b42c69fd6da",
+                "isCustomNameInherited": true
+              }
+            },
+            "group": {
+              "children": [
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "06076fe8-7af4-4fd5-be01-bfcadd068f17",
+                  "guid": "c166bb95-4ec7-4845-a9e4-fb797b7446c6"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "62eec0a8-ae89-4046-856b-a889ce0690ec",
+                  "guid": "cb1a14f4-2ea3-406d-8102-55a992acb72d"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "9c807d4c-3b7c-457d-93f5-3500a426c0b7",
+                  "guid": "51e8a05d-accb-4745-820b-816328cc277b"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "89bfb2bb-851c-4e4d-a280-048deb0403b2",
+                  "guid": "4ae89c07-a547-426d-9f41-ed4dd711b801"
+                }
+              ]
+            }
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "22d6247c-639b-4476-95b3-9ec9afd06b45",
+            "guid": "3e84aa4c-0668-4233-be0e-335dca8cb249"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "48fe2be5-da86-4a37-8392-2fbab8d96868",
+            "guid": "409ea400-4a20-43b2-9e51-8487b7dc81d2"
+          }
+        ]
+      }
+    },
+    {
+      "type": "group",
+      "name": "Item",
+      "id": "525985bc-f227-48f9-81e2-0a0a64916264",
+      "transform": {
+        "a": 1,
+        "b": 0,
+        "c": 0,
+        "d": 1,
+        "tx": -200.6666717529297,
+        "ty": 388.66668701171875
+      },
+      "meta": {
+        "ux": {
+          "hasCustomName": true,
+          "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
+          "width": 130.6666717529297,
+          "height": 188.6666717529297,
+          "componentType": "componentNoBounds",
+          "syncMap": {
+            "379c5629-d253-41e3-baa9-88ca3f70afff": "38fd557e-1274-411a-9e57-62d2378ca088",
+            "5af5714f-6407-401b-b741-2484598bf9b0": "3a140538-3024-4c1b-a892-050c73243be9",
+            "606c0454-8099-4139-b5f3-1c006af6d9fa": "927da60e-0b18-4a92-b6c3-4dbc8d305493",
+            "764b6d1a-3b87-43cb-ba22-39bd5579ad81": "214256f2-dc1f-4442-bc2d-290cc656f1ef",
+            "865567a9-639d-46b4-ba43-fb248c7c3a27": "48f0fa76-f9eb-4d86-8fc7-6343b8e38c30",
+            "9a9f224c-5723-477a-9083-6dec37cfe893": "69b66d58-794f-477a-baaa-11d490132a3b",
+            "b98c13ad-8c36-4178-be3c-9f36cd596e71": "f5ddfb26-9888-438f-ac11-c66731326fb2",
+            "f36d0596-0c3b-4e70-883c-f1ea4c454de6": "685fc260-dada-447f-aa20-e0bd4f072fdb"
+          },
+          "stateId": "0b9a8d3f-08e2-4a76-a034-3b0aed01b12b",
+          "symbolPaddingLeft": -0.1666717529296875,
+          "assetGroupData": {
+            "groupComponents": "b"
+          }
+        }
+      },
+      "group": {
+        "children": [
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "b98c13ad-8c36-4178-be3c-9f36cd596e71",
+            "guid": "f5ddfb26-9888-438f-ac11-c66731326fb2"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "764b6d1a-3b87-43cb-ba22-39bd5579ad81",
+            "guid": "214256f2-dc1f-4442-bc2d-290cc656f1ef"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "9a9f224c-5723-477a-9083-6dec37cfe893",
+            "guid": "69b66d58-794f-477a-baaa-11d490132a3b",
+            "group": {
+              "children": [
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "5af5714f-6407-401b-b741-2484598bf9b0",
+                  "guid": "3a140538-3024-4c1b-a892-050c73243be9"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "379c5629-d253-41e3-baa9-88ca3f70afff",
+                  "guid": "38fd557e-1274-411a-9e57-62d2378ca088"
+                }
+              ]
+            }
+          },
+          {
+            "type": "group",
+            "name": "Price",
+            "id": "48f0fa76-f9eb-4d86-8fc7-6343b8e38c30",
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 28.666671752929688,
+              "ty": 115
+            },
+            "meta": {
+              "ux": {
+                "hasCustomName": true,
+                "customConstraints": true,
+                "constraintWidth": true,
+                "constraintHeight": true,
+                "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
+                "width": 73.33333587646484,
+                "height": 17,
+                "componentType": "componentNoBounds",
+                "syncMap": {
+                  "0d950570-464a-4f0e-8296-9c541a258416": "24dcd7ee-4c68-4fed-aee1-60307d680d29",
+                  "597702f0-2352-40f4-bb6b-b1e34b551875": "06e70c9d-0940-4e35-b1e8-5243336ccc57",
+                  "87cae25d-9466-4d0e-8a75-8762bfadcc99": "bed10132-b670-4073-bf59-bc22e8467d72",
+                  "de17b5e2-14f6-4867-856f-89812ce79935": "c73e5d51-2357-4685-8f43-416fd041cd90"
+                },
+                "stateId": "bb8bd632-6c19-4c84-a5f7-d02f819eb0cc",
+                "isCustomNameInherited": true,
+                "assetGroupData": {
+                  "groupComponents": "an"
+                }
+              }
+            },
+            "group": {
+              "children": [
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "597702f0-2352-40f4-bb6b-b1e34b551875",
+                  "guid": "06e70c9d-0940-4e35-b1e8-5243336ccc57"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "87cae25d-9466-4d0e-8a75-8762bfadcc99",
+                  "guid": "bed10132-b670-4073-bf59-bc22e8467d72"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "de17b5e2-14f6-4867-856f-89812ce79935",
+                  "guid": "c73e5d51-2357-4685-8f43-416fd041cd90"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "0d950570-464a-4f0e-8296-9c541a258416",
+                  "guid": "24dcd7ee-4c68-4fed-aee1-60307d680d29"
+                }
+              ]
+            }
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "f36d0596-0c3b-4e70-883c-f1ea4c454de6",
+            "guid": "685fc260-dada-447f-aa20-e0bd4f072fdb"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "606c0454-8099-4139-b5f3-1c006af6d9fa",
+            "guid": "927da60e-0b18-4a92-b6c3-4dbc8d305493"
+          }
+        ]
+      }
+    },
+    {
+      "type": "group",
+      "name": "Item",
+      "id": "a18d6630-b7f9-4e71-9d96-343360c9b44e",
+      "transform": {
+        "a": 1,
+        "b": 0,
+        "c": 0,
+        "d": 1,
+        "tx": -200.83334350585938,
+        "ty": 577.3333740234375
+      },
+      "meta": {
+        "ux": {
+          "hasCustomName": true,
+          "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
+          "width": 130.83334350585938,
+          "height": 188.6666717529297,
+          "componentType": "componentNoBounds",
+          "syncMap": {
+            "1376b05b-72bd-4cb8-9591-7e6bed487918": "920c3a48-46c1-4896-a00f-946404de979d",
+            "355d4d53-f6f1-40c0-8d0c-2ba4676b0636": "3c5e6f3f-2c6f-46b5-8aa4-715f83207749",
+            "6816c35d-5716-4de1-8f4c-e634f5dfb5f0": "8120f0a9-ae9c-4a9e-a0bb-2cc62bd3e7b3",
+            "96eaedc0-333f-4ab0-8195-e4b70e9d5fa4": "b67e356d-89c8-47fc-8b3e-6768d813da36",
+            "9bea2764-884a-41f3-9a98-42eb345af3eb": "9a7dcbca-531b-4039-8f6c-465f8e5089ae",
+            "9db7327f-5451-417d-855f-40358651df1b": "1fbdde67-58cd-4568-8565-c99b7599c6ab",
+            "ad836816-4b4a-4e81-8cf6-7288b17d8241": "926393e3-fec5-4e3c-a56c-4e82cfe9f62d",
+            "f4d76e00-0b2a-42ab-ae7d-16f5b6a50d69": "a665b898-91b5-431a-afcb-93896ef66054"
+          },
+          "stateId": "9aa46083-ca12-471e-ab53-59a480ecb24d",
+          "assetGroupData": {
+            "groupComponents": "b"
+          }
+        }
+      },
+      "group": {
+        "children": [
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "1376b05b-72bd-4cb8-9591-7e6bed487918",
+            "guid": "920c3a48-46c1-4896-a00f-946404de979d"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "355d4d53-f6f1-40c0-8d0c-2ba4676b0636",
+            "guid": "3c5e6f3f-2c6f-46b5-8aa4-715f83207749"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "f4d76e00-0b2a-42ab-ae7d-16f5b6a50d69",
+            "guid": "a665b898-91b5-431a-afcb-93896ef66054",
+            "group": {
+              "children": [
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "9db7327f-5451-417d-855f-40358651df1b",
+                  "guid": "1fbdde67-58cd-4568-8565-c99b7599c6ab"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "96eaedc0-333f-4ab0-8195-e4b70e9d5fa4",
+                  "guid": "b67e356d-89c8-47fc-8b3e-6768d813da36"
+                }
+              ]
+            }
+          },
+          {
+            "type": "group",
+            "name": "Price",
+            "id": "926393e3-fec5-4e3c-a56c-4e82cfe9f62d",
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 28.833343505859375,
+              "ty": 115
+            },
+            "meta": {
+              "ux": {
+                "hasCustomName": true,
+                "customConstraints": true,
+                "constraintWidth": true,
+                "constraintHeight": true,
+                "symbolId": "15386905-39e9-4272-9780-2b42c69fd6da",
+                "width": 73.33333587646484,
+                "height": 17,
+                "componentType": "componentNoBounds",
+                "syncMap": {
+                  "33328991-4d80-4e17-9164-e7effe5e5c49": "d47bfec9-bb1e-4c86-8bce-2568c7de3666",
+                  "372b4aad-21e5-43b7-bfd5-a4c3f7ab0edf": "d7ae2f21-6f40-4158-b1b1-d2f0f4dab5dc",
+                  "9e79a58f-91bf-4390-850e-977ab109d7a9": "7f2aa0ab-ca4d-4429-a181-ba6b76bbbec1",
+                  "a5c6a854-023a-430e-ad83-d69c0bdc76da": "eeddcbf3-7aa6-4ef6-8756-2254cced382b"
+                },
+                "stateId": "4c654781-b065-4ada-87c8-ddce03d1cf07",
+                "isCustomNameInherited": true,
+                "assetGroupData": {
+                  "groupComponents": "an"
+                }
+              }
+            },
+            "group": {
+              "children": [
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "9e79a58f-91bf-4390-850e-977ab109d7a9",
+                  "guid": "7f2aa0ab-ca4d-4429-a181-ba6b76bbbec1"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "33328991-4d80-4e17-9164-e7effe5e5c49",
+                  "guid": "d47bfec9-bb1e-4c86-8bce-2568c7de3666"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "a5c6a854-023a-430e-ad83-d69c0bdc76da",
+                  "guid": "eeddcbf3-7aa6-4ef6-8756-2254cced382b"
+                },
+                {
+                  "type": "syncRef",
+                  "syncSourceGuid": "372b4aad-21e5-43b7-bfd5-a4c3f7ab0edf",
+                  "guid": "d7ae2f21-6f40-4158-b1b1-d2f0f4dab5dc"
+                }
+              ]
+            }
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "6816c35d-5716-4de1-8f4c-e634f5dfb5f0",
+            "guid": "8120f0a9-ae9c-4a9e-a0bb-2cc62bd3e7b3"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "9bea2764-884a-41f3-9a98-42eb345af3eb",
+            "guid": "9a7dcbca-531b-4039-8f6c-465f8e5089ae"
           }
         ]
       }
