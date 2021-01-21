@@ -971,6 +971,14 @@
                                                                                   "constraintRight": true,
                                                                                   "constraintHeight": true,
                                                                                   "constraintBottom": true,
+                                                                                  "interactions": [
+                                                                                    {
+                                                                                      "guid": "1a497d5f-bccd-4ebe-9fb5-59de630a978c",
+                                                                                      "inherited": true,
+                                                                                      "enabled": true,
+                                                                                      "valid": true
+                                                                                    }
+                                                                                  ],
                                                                                   "symbolId": "8911939e-96ae-4ffc-9149-f5aa097ad310",
                                                                                   "width": 98,
                                                                                   "height": 33.33333206176758,
