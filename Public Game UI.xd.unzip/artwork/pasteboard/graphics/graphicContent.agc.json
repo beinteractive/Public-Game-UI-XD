@@ -262,14 +262,12 @@
           "componentType": "componentNoBounds",
           "isMaster": true,
           "syncMap": {
+            "1559d2ba-4046-44d3-9ef9-5fa75ef9cff5": "0545c45f-d950-413f-bd30-f9895e1aab91",
             "1f55cc0a-8065-4a50-b3ff-02181fbf77cd": "8574f838-9f7a-432e-b08b-98c9644f83a2",
             "22d6247c-639b-4476-95b3-9ec9afd06b45": "3e84aa4c-0668-4233-be0e-335dca8cb249",
             "48fe2be5-da86-4a37-8392-2fbab8d96868": "409ea400-4a20-43b2-9e51-8487b7dc81d2",
             "648b73ff-ac72-4bfc-b0af-6fb8b79d4d9a": "07df984e-e44f-467e-bd34-9b253524e60f",
-            "69ec8b79-cc74-49e8-8741-2340af0c8a72": "2bb25959-51f8-4ba6-b5a7-2161ec3c3b77",
-            "8f7cdb8f-aff8-4729-a805-7e418bd1e90a": "7caa9f3c-0dc2-46d3-a70e-a68dd743c9b9",
-            "cac9b731-6d6a-4c00-81f6-179966cf207f": "b4537468-c538-4d64-a313-ba8e1ff11fa8",
-            "de3894a2-6d67-4dfb-ab60-73e3ba444b6d": "1aacb22f-c6ec-4dc8-8a49-b8af0935dd40"
+            "69ec8b79-cc74-49e8-8741-2340af0c8a72": "2bb25959-51f8-4ba6-b5a7-2161ec3c3b77"
           },
           "stateId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
           "assetGroupData": {
@@ -290,19 +288,46 @@
             "guid": "8574f838-9f7a-432e-b08b-98c9644f83a2"
           },
           {
-            "type": "syncRef",
-            "syncSourceGuid": "8f7cdb8f-aff8-4729-a805-7e418bd1e90a",
-            "guid": "7caa9f3c-0dc2-46d3-a70e-a68dd743c9b9",
+            "type": "group",
+            "name": "Positive Button",
+            "id": "0545c45f-d950-413f-bd30-f9895e1aab91",
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 16.5,
+              "ty": 137
+            },
+            "meta": {
+              "ux": {
+                "hasCustomName": true,
+                "customConstraints": true,
+                "constraintLeft": true,
+                "constraintRight": true,
+                "constraintHeight": true,
+                "constraintBottom": true,
+                "symbolId": "8911939e-96ae-4ffc-9149-f5aa097ad310",
+                "width": 98,
+                "height": 33.33333206176758,
+                "componentType": "componentNoBounds",
+                "syncMap": {
+                  "4664c320-e2f0-4c3d-b124-f7e48d52bc44": "b4537468-c538-4d64-a313-ba8e1ff11fa8",
+                  "8f30d14e-c8f3-4193-b8b7-762d35e4c553": "1aacb22f-c6ec-4dc8-8a49-b8af0935dd40"
+                },
+                "isCustomNameInherited": true
+              }
+            },
             "group": {
               "children": [
                 {
                   "type": "syncRef",
-                  "syncSourceGuid": "cac9b731-6d6a-4c00-81f6-179966cf207f",
+                  "syncSourceGuid": "4664c320-e2f0-4c3d-b124-f7e48d52bc44",
                   "guid": "b4537468-c538-4d64-a313-ba8e1ff11fa8"
                 },
                 {
                   "type": "syncRef",
-                  "syncSourceGuid": "de3894a2-6d67-4dfb-ab60-73e3ba444b6d",
+                  "syncSourceGuid": "8f30d14e-c8f3-4193-b8b7-762d35e4c553",
                   "guid": "1aacb22f-c6ec-4dc8-8a49-b8af0935dd40"
                 }
               ]
@@ -398,13 +423,11 @@
           "height": 188.6666717529297,
           "componentType": "componentNoBounds",
           "syncMap": {
-            "379c5629-d253-41e3-baa9-88ca3f70afff": "38fd557e-1274-411a-9e57-62d2378ca088",
-            "5af5714f-6407-401b-b741-2484598bf9b0": "3a140538-3024-4c1b-a892-050c73243be9",
             "606c0454-8099-4139-b5f3-1c006af6d9fa": "927da60e-0b18-4a92-b6c3-4dbc8d305493",
             "764b6d1a-3b87-43cb-ba22-39bd5579ad81": "214256f2-dc1f-4442-bc2d-290cc656f1ef",
             "865567a9-639d-46b4-ba43-fb248c7c3a27": "48f0fa76-f9eb-4d86-8fc7-6343b8e38c30",
-            "9a9f224c-5723-477a-9083-6dec37cfe893": "69b66d58-794f-477a-baaa-11d490132a3b",
             "b98c13ad-8c36-4178-be3c-9f36cd596e71": "f5ddfb26-9888-438f-ac11-c66731326fb2",
+            "cb7b2adb-56bc-4c43-b560-716131713c38": "da1f9b7f-49f6-4aa8-9c31-d5d90a976663",
             "f36d0596-0c3b-4e70-883c-f1ea4c454de6": "685fc260-dada-447f-aa20-e0bd4f072fdb"
           },
           "stateId": "0b9a8d3f-08e2-4a76-a034-3b0aed01b12b",
@@ -427,20 +450,47 @@
             "guid": "214256f2-dc1f-4442-bc2d-290cc656f1ef"
           },
           {
-            "type": "syncRef",
-            "syncSourceGuid": "9a9f224c-5723-477a-9083-6dec37cfe893",
-            "guid": "69b66d58-794f-477a-baaa-11d490132a3b",
+            "type": "group",
+            "name": "Positive Button",
+            "id": "da1f9b7f-49f6-4aa8-9c31-d5d90a976663",
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 16.333328247070312,
+              "ty": 137
+            },
+            "meta": {
+              "ux": {
+                "hasCustomName": true,
+                "customConstraints": true,
+                "constraintLeft": true,
+                "constraintRight": true,
+                "constraintHeight": true,
+                "constraintBottom": true,
+                "symbolId": "8911939e-96ae-4ffc-9149-f5aa097ad310",
+                "width": 98,
+                "height": 33.33333206176758,
+                "componentType": "componentNoBounds",
+                "syncMap": {
+                  "7458e6c4-ca0e-4365-b733-d0900ecb68e4": "cf7e22a3-f10f-4ea5-9e95-04d4ea57046d",
+                  "fc9f5c5c-93b2-4a43-9437-678a35c67b9d": "8f56c66a-ef68-44f4-bee5-079cfc1fdeeb"
+                },
+                "isCustomNameInherited": true
+              }
+            },
             "group": {
               "children": [
                 {
                   "type": "syncRef",
-                  "syncSourceGuid": "5af5714f-6407-401b-b741-2484598bf9b0",
-                  "guid": "3a140538-3024-4c1b-a892-050c73243be9"
+                  "syncSourceGuid": "fc9f5c5c-93b2-4a43-9437-678a35c67b9d",
+                  "guid": "8f56c66a-ef68-44f4-bee5-079cfc1fdeeb"
                 },
                 {
                   "type": "syncRef",
-                  "syncSourceGuid": "379c5629-d253-41e3-baa9-88ca3f70afff",
-                  "guid": "38fd557e-1274-411a-9e57-62d2378ca088"
+                  "syncSourceGuid": "7458e6c4-ca0e-4365-b733-d0900ecb68e4",
+                  "guid": "cf7e22a3-f10f-4ea5-9e95-04d4ea57046d"
                 }
               ]
             }
@@ -534,20 +584,19 @@
         "ux": {
           "hasCustomName": true,
           "symbolId": "dd96c6e8-2b66-4649-a097-2634e06df03b",
-          "width": 130.83334350585938,
+          "width": 130.6666717529297,
           "height": 188.6666717529297,
           "componentType": "componentNoBounds",
           "syncMap": {
+            "0c199132-12ba-404a-8fd6-982f17c2745a": "0c74d8e9-d831-4ca4-b4ed-facd40106803",
             "1376b05b-72bd-4cb8-9591-7e6bed487918": "920c3a48-46c1-4896-a00f-946404de979d",
             "355d4d53-f6f1-40c0-8d0c-2ba4676b0636": "3c5e6f3f-2c6f-46b5-8aa4-715f83207749",
             "6816c35d-5716-4de1-8f4c-e634f5dfb5f0": "8120f0a9-ae9c-4a9e-a0bb-2cc62bd3e7b3",
-            "96eaedc0-333f-4ab0-8195-e4b70e9d5fa4": "b67e356d-89c8-47fc-8b3e-6768d813da36",
             "9bea2764-884a-41f3-9a98-42eb345af3eb": "9a7dcbca-531b-4039-8f6c-465f8e5089ae",
-            "9db7327f-5451-417d-855f-40358651df1b": "1fbdde67-58cd-4568-8565-c99b7599c6ab",
-            "ad836816-4b4a-4e81-8cf6-7288b17d8241": "926393e3-fec5-4e3c-a56c-4e82cfe9f62d",
-            "f4d76e00-0b2a-42ab-ae7d-16f5b6a50d69": "a665b898-91b5-431a-afcb-93896ef66054"
+            "ad836816-4b4a-4e81-8cf6-7288b17d8241": "926393e3-fec5-4e3c-a56c-4e82cfe9f62d"
           },
           "stateId": "9aa46083-ca12-471e-ab53-59a480ecb24d",
+          "symbolPaddingRight": -0.1666717529296875,
           "assetGroupData": {
             "groupComponents": "b"
           }
@@ -566,20 +615,47 @@
             "guid": "3c5e6f3f-2c6f-46b5-8aa4-715f83207749"
           },
           {
-            "type": "syncRef",
-            "syncSourceGuid": "f4d76e00-0b2a-42ab-ae7d-16f5b6a50d69",
-            "guid": "a665b898-91b5-431a-afcb-93896ef66054",
+            "type": "group",
+            "name": "Positive Button",
+            "id": "0c74d8e9-d831-4ca4-b4ed-facd40106803",
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 16.5,
+              "ty": 137
+            },
+            "meta": {
+              "ux": {
+                "hasCustomName": true,
+                "customConstraints": true,
+                "constraintLeft": true,
+                "constraintRight": true,
+                "constraintHeight": true,
+                "constraintBottom": true,
+                "symbolId": "8911939e-96ae-4ffc-9149-f5aa097ad310",
+                "width": 98,
+                "height": 33.33333206176758,
+                "componentType": "componentNoBounds",
+                "syncMap": {
+                  "ac800f0a-2406-44f3-870b-5d065778f50f": "bd424b86-f906-410d-be79-7c837ef1d417",
+                  "fecb5d62-c868-4b3c-99ba-9289957fa49e": "4190c636-0990-4d40-8784-1bfffba7e070"
+                },
+                "isCustomNameInherited": true
+              }
+            },
             "group": {
               "children": [
                 {
                   "type": "syncRef",
-                  "syncSourceGuid": "9db7327f-5451-417d-855f-40358651df1b",
-                  "guid": "1fbdde67-58cd-4568-8565-c99b7599c6ab"
+                  "syncSourceGuid": "fecb5d62-c868-4b3c-99ba-9289957fa49e",
+                  "guid": "4190c636-0990-4d40-8784-1bfffba7e070"
                 },
                 {
                   "type": "syncRef",
-                  "syncSourceGuid": "96eaedc0-333f-4ab0-8195-e4b70e9d5fa4",
-                  "guid": "b67e356d-89c8-47fc-8b3e-6768d813da36"
+                  "syncSourceGuid": "ac800f0a-2406-44f3-870b-5d065778f50f",
+                  "guid": "bd424b86-f906-410d-be79-7c837ef1d417"
                 }
               ]
             }
@@ -653,6 +729,98 @@
             "type": "syncRef",
             "syncSourceGuid": "9bea2764-884a-41f3-9a98-42eb345af3eb",
             "guid": "9a7dcbca-531b-4039-8f6c-465f8e5089ae"
+          }
+        ]
+      }
+    },
+    {
+      "type": "group",
+      "name": "Positive Button",
+      "id": "83dd162f-e215-461c-9771-c974b146bee8",
+      "transform": {
+        "a": 1,
+        "b": 0,
+        "c": 0,
+        "d": 1,
+        "tx": -307.6666564941406,
+        "ty": 298
+      },
+      "meta": {
+        "ux": {
+          "hasCustomName": true,
+          "customConstraints": true,
+          "constraintLeft": true,
+          "constraintRight": true,
+          "constraintHeight": true,
+          "constraintBottom": true,
+          "symbolId": "8911939e-96ae-4ffc-9149-f5aa097ad310",
+          "width": 98,
+          "height": 33.33333206176758,
+          "componentType": "componentNoBounds",
+          "isMaster": true,
+          "syncMap": {
+            "3e06477a-fde2-40c9-b54e-e686fa478fd4": "63c03325-34e7-4362-8bc1-20f320945a53",
+            "dba04fa7-7d7a-4841-9cb4-7292543446a5": "b3d2c5aa-7155-4ea8-bbc2-715c77c78fcf"
+          },
+          "isCustomNameInherited": true,
+          "assetGroupData": {
+            "groupComponents": "ab"
+          }
+        }
+      },
+      "group": {
+        "children": [
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "dba04fa7-7d7a-4841-9cb4-7292543446a5",
+            "guid": "b3d2c5aa-7155-4ea8-bbc2-715c77c78fcf"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "3e06477a-fde2-40c9-b54e-e686fa478fd4",
+            "guid": "63c03325-34e7-4362-8bc1-20f320945a53"
+          }
+        ]
+      }
+    },
+    {
+      "type": "group",
+      "name": "Negative Button",
+      "id": "d9d73b29-9bf0-41c0-93ed-f16c10355053",
+      "transform": {
+        "a": 1,
+        "b": 0,
+        "c": 0,
+        "d": 1,
+        "tx": -307.6666564941406,
+        "ty": 339.3333435058594
+      },
+      "meta": {
+        "ux": {
+          "hasCustomName": true,
+          "symbolId": "0cfd84c6-ba3f-47f2-9559-e17aff082c53",
+          "width": 98,
+          "height": 33.33333206176758,
+          "componentType": "componentNoBounds",
+          "isMaster": true,
+          "syncMap": {
+            "16efab31-8023-463d-866b-84fc4afa6ae3": "1a9d12fb-1f1f-46c5-938b-688af896164e",
+            "77f97813-caf4-4667-ac0d-110684500acf": "92ea07ff-5ef7-4bd8-af90-0726c3db300b"
+          },
+          "isCustomNameInherited": true
+        }
+      },
+      "group": {
+        "children": [
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "77f97813-caf4-4667-ac0d-110684500acf",
+            "guid": "92ea07ff-5ef7-4bd8-af90-0726c3db300b"
+          },
+          {
+            "type": "syncRef",
+            "syncSourceGuid": "16efab31-8023-463d-866b-84fc4afa6ae3",
+            "guid": "1a9d12fb-1f1f-46c5-938b-688af896164e"
           }
         ]
       }
