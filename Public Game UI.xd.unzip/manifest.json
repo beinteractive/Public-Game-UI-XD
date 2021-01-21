@@ -394,6 +394,14 @@
           "state": "unmodified",
           "name": "",
           "path": "74a7bed1dc7dbf3ea1dbc755873fbc0c"
+        },
+        {
+          "rel": "primary",
+          "type": "image/png",
+          "id": "1fe33df8-7208-4873-a0a0-b09c59638f03",
+          "state": "unmodified",
+          "name": "",
+          "path": "5809002f530a5c75e9f13442dfe88fce"
         }
       ],
       "children": [
@@ -437,7 +445,7 @@
   "type": "application/vnd.adobe.sparkler.project+dcx",
   "uxdesign#requirePassword": "false",
   "uxdesign#resourceID": "5e2dadf9-6e22-4b22-904b-78dadbcb7343",
-  "uxdesign#serializationId": "cace5c75-131a-4f48-a1a3-223e175bca96",
+  "uxdesign#serializationId": "929a39c5-4422-4f01-a1e2-20fc2326fab2",
   "uxdesign#compositeID": "6af26b62-f4d9-480a-808b-8b961db57067",
   "id": "46d37788-95fd-4354-91f9-891bec722dab",
   "uxdesign#version": "2.18"
